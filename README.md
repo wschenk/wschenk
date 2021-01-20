@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello There
+
+I run [happyfuncorp](https://happyfuncorp.com) and I write some technical things over at [willschenk.com](https://willschenk.com).
+
 
 <!--
 **wschenk/wschenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
