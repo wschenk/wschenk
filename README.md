@@ -2,6 +2,9 @@
 
 I run [happyfuncorp](https://happyfuncorp.com) and I write some technical things over at [willschenk.com](https://willschenk.com).
 
+Most of these repos aren't that interesting.
+
+My latest side project is over at [gitgratitude](https://github.com/HappyFunCorp/gitgratitude)
 
 <!--
 **wschenk/wschenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
