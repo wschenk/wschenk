@@ -1,22 +1,15 @@
-# Hello There
+# father, widower, lover, technologist, woodsman
 
-I run [happyfuncorp](https://happyfuncorp.com) and I write some technical things over at [willschenk.com](https://willschenk.com).
+I write various [thought fragments](https://willschenk.com/fragments/), [lab notes](https://willschenk.com/labnotes/), [how to guides](https://willschenk.com/howto/) and the occasional [article](https://willschenk.com/articles/) over at [willschenk.com](https://willschenk.com)
 
-Most of these repos aren't that interesting.
+Currently I am the [proprietor of Cornwall Market](https://www.cornwallmarket.com/) located in the Northwest Corner of Connecticut, also know as the [center of the universe](https://www.cornwallmarket.com/why-cornwall).
 
-My latest side project is over at [gitgratitude](https://github.com/HappyFunCorp/gitgratitude)
+I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app that helps you understand how to use your Tesla and Rivian a bit better.
 
-<!--
-**wschenk/wschenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Past
 
-Here are some ideas to get you started:
+I ran [HappyFunCorp](https://happyfuncorp.com) from Sept 2009 to Jan 2022.  I stepped down from [day to day operations](https://willschenk.com/fragments/2023/a_good_death/) in Janurary and we sold the company in November.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Future
+
+I'm starting a new project in the fall around effectively leveraging AI and AI-enabled tools.
