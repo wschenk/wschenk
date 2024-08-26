@@ -1,20 +1,19 @@
 name: Build Readme
 on:
   schedule:
-    - cron: "12 6 * * *"
+    - cron: "34 3 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: gh repo list
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3" # Not needed with a `.ruby-version` or `.tool-versions`
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - run: bundle exec ruby generate.rb
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push if README changed
         run: |-
           git diff
