@@ -41,3 +41,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-08-26: [wschenk/express-react-email-clerk](https://github.com/wschenk/express-react-email-clerk) - Template for an express site that uses react email and clerk
  - 2024-08-26: [wschenk/express-react-email](https://github.com/wschenk/express-react-email) - Template for an express app that also is configured to use react-email
  - 2024-08-26: [wschenk/vite-ts-tailwind](https://github.com/wschenk/vite-ts-tailwind) - Template for a vite typescript tailwind site
+
+
+![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
