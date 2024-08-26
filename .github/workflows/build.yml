@@ -1,5 +1,7 @@
 name: Build Readme
 on:
+  push:
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 jobs:
