@@ -31,3 +31,13 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Repo activity
 
  - 2024-08-26: [wschenk/wschenk](https://github.com/wschenk/wschenk) - 
+ - 2024-08-20: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - This is my website
+ - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
+ - 2024-08-19: [wschenk/vite-clerk-vanilla](https://github.com/wschenk/vite-clerk-vanilla) - Vanilla typescript and tailwind with clerk
+ - 2024-08-19: [wschenk/telegram-bot-typescript](https://github.com/wschenk/telegram-bot-typescript) - 
+ - 2024-08-19: [wschenk/sinatra-clerk](https://github.com/wschenk/sinatra-clerk) - 
+ - 2024-08-19: [wschenk/sinatra-ar-template](https://github.com/wschenk/sinatra-ar-template) - Sinatra and ActiveRecord for json apis
+ - 2024-08-19: [wschenk/express-react-email-clerk](https://github.com/wschenk/express-react-email-clerk) - 
+ - 2024-08-19: [wschenk/express-react-email](https://github.com/wschenk/express-react-email) - 
+ - 2024-08-19: [wschenk/vite-ts-tailwind](https://github.com/wschenk/vite-ts-tailwind) - 
+ - 2024-08-14: [wschenk/unbias](https://github.com/wschenk/unbias) - 
