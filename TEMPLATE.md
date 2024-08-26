@@ -21,3 +21,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Repo activity
 
 <!-- repo activity -->
+
+
+![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
