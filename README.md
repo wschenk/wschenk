@@ -30,10 +30,10 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
- - 2024-08-26: [wschenk/wschenk](https://github.com/wschenk/wschenk) - My github profile and an updating list of things that I've been working on recently
- - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-26: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2024-08-26: [wschenk/wschenk](https://github.com/wschenk/wschenk) - My github profile and an updating list of things that I've been working on recently
+ - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
+ - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
  - 2024-08-19: [wschenk/vite-clerk-vanilla](https://github.com/wschenk/vite-clerk-vanilla) - Vanilla typescript and tailwind with clerk
  - 2024-08-26: [wschenk/telegram-bot-typescript](https://github.com/wschenk/telegram-bot-typescript) - Template for a telegram bot written in typescript
