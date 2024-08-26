@@ -8,6 +8,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-08-26: [Using act to test github actions locally](https://willschenk.com/labnotes/2024/using_act_to_test_github_actions_locally/)
+ - 2024-08-21: [Playing with streamlit](https://willschenk.com/labnotes/2024/playing_with_streamlit/)
  - 2024-08-20: [Building a site with nuejs](https://willschenk.com/howto/2024/building_a_site_with_nuejs/)
  - 2024-08-19: [LLM Tool calls](https://willschenk.com/howto/2024/llm_tool_calls/)
  - 2024-08-15: [Create a telegram ollama client](https://willschenk.com/howto/2024/create_a_telegram_ollama_client/)
@@ -17,8 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-11: [degit to template projects](https://willschenk.com/labnotes/2024/degit_to_template_projects/)
  - 2024-08-11: [vite-bundle-visualizer](https://willschenk.com/labnotes/2024/vite_bundle_visualizer/)
  - 2024-08-05: [Accessing clerk from ruby](https://willschenk.com/labnotes/2024/accessing_clerk_from_ruby/)
- - 2024-08-05: [Using clerk with vite and static site](https://willschenk.com/labnotes/2024/using_clerk_with_vite/)
- - 2024-08-02: [rust to wasm to javascript](https://willschenk.com/fragments/2024/rust_to_wasm_to_javascript/)
 
 ## Past
 
@@ -30,8 +30,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-08-26: [wschenk/wschenk](https://github.com/wschenk/wschenk) - My github profile and an updating list of things that I've been working on recently
  - 2024-08-26: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2024-08-26: [wschenk/wschenk](https://github.com/wschenk/wschenk) - My github profile and an updating list of things that I've been working on recently
  - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
  - 2024-08-19: [wschenk/vite-clerk-vanilla](https://github.com/wschenk/vite-clerk-vanilla) - Vanilla typescript and tailwind with clerk
  - 2024-08-26: [wschenk/telegram-bot-typescript](https://github.com/wschenk/telegram-bot-typescript) - Template for a telegram bot written in typescript
