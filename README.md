@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-08-27: [Roda + Sequel](https://willschenk.com/labnotes/2024/roda_+_sequel/)
  - 2024-08-26: [Telegram with curl](https://willschenk.com/labnotes/2024/telegram_with_curl/)
  - 2024-08-26: [Using act to test github actions locally](https://willschenk.com/labnotes/2024/using_act_to_test_github_actions_locally/)
  - 2024-08-21: [Playing with streamlit](https://willschenk.com/labnotes/2024/playing_with_streamlit/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-14: [Command line parsing in typescript](https://willschenk.com/howto/2024/command_line_parsing_in_typescript/)
  - 2024-08-14: [Using python venv in docker](https://willschenk.com/labnotes/2024/using_python_venv_in_docker/)
  - 2024-08-11: [degit to template projects](https://willschenk.com/labnotes/2024/degit_to_template_projects/)
- - 2024-08-11: [vite-bundle-visualizer](https://willschenk.com/labnotes/2024/vite_bundle_visualizer/)
 
 ## Past
 
@@ -30,9 +30,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-08-27: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-26: [wschenk/wschenk](https://github.com/wschenk/wschenk) - My github profile and an updating list of things that I've been working on recently
- - 2024-08-26: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
  - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
  - 2024-08-19: [wschenk/vite-clerk-vanilla](https://github.com/wschenk/vite-clerk-vanilla) - Vanilla typescript and tailwind with clerk
