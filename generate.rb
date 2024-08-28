@@ -10,7 +10,9 @@ template = File.read("TEMPLATE.md")
 if( template =~ /<!-- repo activity -->/  )
   puts "Replacing repo activity"
   activity_json = `gh repo list --json nameWithOwner,description,updatedAt --source --visibility public`
-  activity = JSON.parse(activity_json)[0..10].collect do |repo|
+  activity = JSON.parse(activity_json).filter do |repo|
+    repo["nameWithOwner"] != 'wschenk/wschenk'
+  end[0..10].collect do |repo|
     date = DateTime.parse(repo["updatedAt"]).strftime("%Y-%m-%d")
     " - #{date}: [#{repo["nameWithOwner"]}](https://github.com/#{repo["nameWithOwner"]}) - #{repo["description"]}"
   end.join("\n")
