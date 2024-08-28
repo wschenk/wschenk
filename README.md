@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-08-28: [i heart ruby](https://willschenk.com/fragments/2024/i_heart_ruby/)
  - 2024-08-28: [Building a blog using github issues](https://willschenk.com/howto/2024/building_a_blog_using_github_issues/)
  - 2024-08-27: [Roda + Sequel](https://willschenk.com/labnotes/2024/roda_+_sequel/)
  - 2024-08-26: [Telegram with curl](https://willschenk.com/labnotes/2024/telegram_with_curl/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-15: [Create a telegram ollama client](https://willschenk.com/howto/2024/create_a_telegram_ollama_client/)
  - 2024-08-14: [Playing with Vercel AI SDK](https://willschenk.com/labnotes/2024/playing_with_vercel_ai_sdk/)
  - 2024-08-14: [Command line parsing in typescript](https://willschenk.com/howto/2024/command_line_parsing_in_typescript/)
- - 2024-08-14: [Using python venv in docker](https://willschenk.com/labnotes/2024/using_python_venv_in_docker/)
 
 ## Past
 
@@ -30,8 +30,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
  - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
