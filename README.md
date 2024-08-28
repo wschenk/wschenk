@@ -30,7 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-08-27: [wschenk/wschenk](https://github.com/wschenk/wschenk) - My github profile and an updating list of things that I've been working on recently
+ - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - 
  - 2024-08-27: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
