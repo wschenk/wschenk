@@ -30,6 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
  - 2024-08-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
@@ -40,7 +41,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-08-26: [wschenk/sinatra-clerk](https://github.com/wschenk/sinatra-clerk) - sinatra app that uses active record and clerk
  - 2024-08-19: [wschenk/sinatra-ar-template](https://github.com/wschenk/sinatra-ar-template) - Sinatra and ActiveRecord for json apis
  - 2024-08-26: [wschenk/express-react-email-clerk](https://github.com/wschenk/express-react-email-clerk) - Template for an express site that uses react email and clerk
- - 2024-08-26: [wschenk/express-react-email](https://github.com/wschenk/express-react-email) - Template for an express app that also is configured to use react-email
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
