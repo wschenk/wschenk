@@ -30,6 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-09-03: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
  - 2024-09-02: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
  - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
@@ -40,7 +41,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-08-26: [wschenk/telegram-bot-typescript](https://github.com/wschenk/telegram-bot-typescript) - Template for a telegram bot written in typescript
  - 2024-08-26: [wschenk/sinatra-clerk](https://github.com/wschenk/sinatra-clerk) - sinatra app that uses active record and clerk
  - 2024-08-19: [wschenk/sinatra-ar-template](https://github.com/wschenk/sinatra-ar-template) - Sinatra and ActiveRecord for json apis
- - 2024-08-26: [wschenk/express-react-email-clerk](https://github.com/wschenk/express-react-email-clerk) - Template for an express site that uses react email and clerk
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
