@@ -8,6 +8,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-09-02: [No build static site that used supabase](https://willschenk.com/howto/2024/no_build_static_site_that_used_supabase/)
+ - 2024-09-02: [Seperate git for blog writing](https://willschenk.com/labnotes/2024/seperate_git_for_blog_writing/)
  - 2024-08-28: [i heart ruby](https://willschenk.com/fragments/2024/i_heart_ruby/)
  - 2024-08-28: [Building a blog using github issues](https://willschenk.com/howto/2024/building_a_blog_using_github_issues/)
  - 2024-08-27: [Roda + Sequel](https://willschenk.com/labnotes/2024/roda_+_sequel/)
@@ -17,8 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-20: [Building a site with nuejs](https://willschenk.com/howto/2024/building_a_site_with_nuejs/)
  - 2024-08-19: [LLM Tool calls](https://willschenk.com/howto/2024/llm_tool_calls/)
  - 2024-08-15: [Create a telegram ollama client](https://willschenk.com/howto/2024/create_a_telegram_ollama_client/)
- - 2024-08-14: [Playing with Vercel AI SDK](https://willschenk.com/labnotes/2024/playing_with_vercel_ai_sdk/)
- - 2024-08-14: [Command line parsing in typescript](https://willschenk.com/howto/2024/command_line_parsing_in_typescript/)
 
 ## Past
 
@@ -31,7 +31,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Repo activity
 
  - 2024-09-03: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
- - 2024-09-02: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2024-09-03: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
  - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
