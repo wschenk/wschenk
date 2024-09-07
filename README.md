@@ -30,10 +30,10 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-09-07: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-09-05: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-03: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
  - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
- - 2024-08-28: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
  - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
