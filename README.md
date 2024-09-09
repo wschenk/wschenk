@@ -30,6 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-09-09: [wschenk/nodepadjs](https://github.com/wschenk/nodepadjs) - Write short notes and store them in the url
  - 2024-09-07: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-09-05: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-03: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
@@ -40,7 +41,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-08-19: [wschenk/vite-clerk-vanilla](https://github.com/wschenk/vite-clerk-vanilla) - Vanilla typescript and tailwind with clerk
  - 2024-08-26: [wschenk/telegram-bot-typescript](https://github.com/wschenk/telegram-bot-typescript) - Template for a telegram bot written in typescript
  - 2024-08-26: [wschenk/sinatra-clerk](https://github.com/wschenk/sinatra-clerk) - sinatra app that uses active record and clerk
- - 2024-08-19: [wschenk/sinatra-ar-template](https://github.com/wschenk/sinatra-ar-template) - Sinatra and ActiveRecord for json apis
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
