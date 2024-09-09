@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-09-09: [Creating a start page](https://willschenk.com/howto/2024/creating_a_start_page/)
  - 2024-09-02: [No build static site that used supabase](https://willschenk.com/howto/2024/no_build_static_site_that_used_supabase/)
  - 2024-09-02: [Seperate git for blog writing](https://willschenk.com/labnotes/2024/seperate_git_for_blog_writing/)
  - 2024-08-28: [i heart ruby](https://willschenk.com/fragments/2024/i_heart_ruby/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-21: [Playing with streamlit](https://willschenk.com/labnotes/2024/playing_with_streamlit/)
  - 2024-08-20: [Building a site with nuejs](https://willschenk.com/howto/2024/building_a_site_with_nuejs/)
  - 2024-08-19: [LLM Tool calls](https://willschenk.com/howto/2024/llm_tool_calls/)
- - 2024-08-15: [Create a telegram ollama client](https://willschenk.com/howto/2024/create_a_telegram_ollama_client/)
 
 ## Past
 
