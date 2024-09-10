@@ -30,7 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-09-03: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
+ - 2024-09-10: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
  - 2024-09-09: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-09: [wschenk/nodepadjs](https://github.com/wschenk/nodepadjs) - Write short notes and store them in the url
  - 2024-09-07: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
