@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-09-10: [The raven](https://willschenk.com/fragments/2024/the_raven/)
  - 2024-09-09: [How to make opengraph screenshots for hugo](https://willschenk.com/howto/2024/how_to_make_opengraph_screenshots_for_hugo/)
  - 2024-09-09: [Creating a start page](https://willschenk.com/howto/2024/creating_a_start_page/)
  - 2024-09-02: [No build static site that used supabase](https://willschenk.com/howto/2024/no_build_static_site_that_used_supabase/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-26: [Telegram with curl](https://willschenk.com/labnotes/2024/telegram_with_curl/)
  - 2024-08-26: [Using act to test github actions locally](https://willschenk.com/labnotes/2024/using_act_to_test_github_actions_locally/)
  - 2024-08-21: [Playing with streamlit](https://willschenk.com/labnotes/2024/playing_with_streamlit/)
- - 2024-08-20: [Building a site with nuejs](https://willschenk.com/howto/2024/building_a_site_with_nuejs/)
 
 ## Past
 
@@ -30,8 +30,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-09-11: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-10: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
- - 2024-09-09: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-09: [wschenk/nodepadjs](https://github.com/wschenk/nodepadjs) - Write short notes and store them in the url
  - 2024-09-07: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
