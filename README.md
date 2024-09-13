@@ -30,6 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-09-13: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - 
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
@@ -40,7 +41,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
  - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
- - 2024-08-19: [wschenk/streamlit](https://github.com/wschenk/streamlit) - Basic template for mocking things out with streamlit
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
