@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-10-01: [Quality Code Swearing](https://willschenk.com/fragments/2024/quality_code_swearing/)
  - 2024-09-15: [Vibe check](https://willschenk.com/fragments/2024/vibe_check/)
  - 2024-09-12: [Quick slide show](https://willschenk.com/howto/2024/make_presentations_with_html/)
  - 2024-09-10: [The raven](https://willschenk.com/fragments/2024/the_raven/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-08-28: [i heart ruby](https://willschenk.com/fragments/2024/i_heart_ruby/)
  - 2024-08-28: [Building a blog using github issues](https://willschenk.com/howto/2024/building_a_blog_using_github_issues/)
  - 2024-08-27: [Roda + Sequel](https://willschenk.com/labnotes/2024/roda_+_sequel/)
- - 2024-08-26: [Telegram with curl](https://willschenk.com/labnotes/2024/telegram_with_curl/)
 
 ## Past
 
@@ -30,7 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-09-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2024-10-01: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-13: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - 
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
