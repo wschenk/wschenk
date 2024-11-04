@@ -30,6 +30,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2024-11-04: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2024-10-08: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-13: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - 
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
@@ -40,7 +41,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-09-07: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2024-08-29: [wschenk/shopping-list-bot](https://github.com/wschenk/shopping-list-bot) - Simple telegram bot that collects a grocery list and formats it around where things are in the store
  - 2024-08-26: [wschenk/status-page](https://github.com/wschenk/status-page) - Playground to see about setting up actions to monitor thing
- - 2024-08-26: [wschenk/marina](https://github.com/wschenk/marina) - A marina for your docker containers
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
