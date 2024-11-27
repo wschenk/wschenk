@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2024-11-27: [The Focus AI](https://willschenk.com/fragments/2024/the_focus_ai/)
  - 2024-11-27: [Fixing vite errors when on github pages](https://willschenk.com/labnotes/2024/fixing_vite_errors_when_on_github_pages/)
  - 2024-11-27: [Adding seo and social to astro](https://willschenk.com/labnotes/2024/adding_seo_and_social_to_astro/)
  - 2024-11-19: [Astro and Obsidian](https://willschenk.com/howto/2024/astro_and_obsidian/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-09-12: [Quick slide show](https://willschenk.com/howto/2024/make_presentations_with_html/)
  - 2024-09-10: [The raven](https://willschenk.com/fragments/2024/the_raven/)
  - 2024-09-09: [How to make opengraph screenshots for hugo](https://willschenk.com/howto/2024/how_to_make_opengraph_screenshots_for_hugo/)
- - 2024-09-09: [Creating a start page](https://willschenk.com/howto/2024/creating_a_start_page/)
 
 ## Past
 
@@ -30,8 +30,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2024-11-27: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2024-11-27: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2024-11-27: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2024-09-13: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - 
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
