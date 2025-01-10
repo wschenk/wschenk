@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2025-01-09: [Tools I like as an amateur](https://willschenk.com/fragments/2025/tools_i_like_as_an_amateur/)
  - 2025-01-09: [Open-WebUI to use ollama](https://willschenk.com/labnotes/2025/open_web_ui/)
  - 2024-12-16: [Unnecessary Knowledge](https://willschenk.com/fragments/2024/unnecessary_knowledge/)
  - 2024-12-03: [Load enviroments the nextjs way](https://willschenk.com/labnotes/2024/load_enviroments_the_nextjs_way/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-11-08: [Talking to a tesla over bluetooth](https://willschenk.com/labnotes/2024/talking_to_a_tesla_over_bluetooth/)
  - 2024-10-08: [Slicing up a design from figma](https://willschenk.com/howto/2024/slicing_up_a_design_from_figma/)
  - 2024-10-01: [Quality Code Swearing](https://willschenk.com/fragments/2024/quality_code_swearing/)
- - 2024-09-15: [Vibe check](https://willschenk.com/fragments/2024/vibe_check/)
 
 ## Past
 
