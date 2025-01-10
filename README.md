@@ -8,6 +8,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2025-01-10: [have openai help you use the terminal](https://willschenk.com/labnotes/2025/have_openai_help_you_use_the_terminal/)
+ - 2025-01-10: [asciinema for terminal recordings](https://willschenk.com/labnotes/2025/asciinema_for_terminal_recordings/)
  - 2025-01-09: [Tools I like as an amateur](https://willschenk.com/fragments/2025/tools_i_like_as_an_amateur/)
  - 2025-01-09: [Open-WebUI to use ollama](https://willschenk.com/labnotes/2025/open_web_ui/)
  - 2024-12-16: [Unnecessary Knowledge](https://willschenk.com/fragments/2024/unnecessary_knowledge/)
@@ -17,8 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-11-27: [Adding seo and social to astro](https://willschenk.com/labnotes/2024/adding_seo_and_social_to_astro/)
  - 2024-11-19: [Astro and Obsidian](https://willschenk.com/howto/2024/astro_and_obsidian/)
  - 2024-11-08: [Talking to a tesla over bluetooth](https://willschenk.com/labnotes/2024/talking_to_a_tesla_over_bluetooth/)
- - 2024-10-08: [Slicing up a design from figma](https://willschenk.com/howto/2024/slicing_up_a_design_from_figma/)
- - 2024-10-01: [Quality Code Swearing](https://willschenk.com/fragments/2024/quality_code_swearing/)
 
 ## Past
 
@@ -30,8 +30,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-01-10: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-01-10: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
- - 2025-01-09: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2024-09-13: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - 
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
