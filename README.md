@@ -6,7 +6,7 @@ Currently I am the [proprietor of Cornwall Market](https://www.cornwallmarket.co
 
 I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app that helps you understand how to use your Tesla and Rivian a bit better.
 
-## Recent Blog Posts
+## Recent willschenk.com Blog Posts
 
  - 2025-01-17: [Books in Gemini](https://willschenk.com/fragments/2025/books_in_gemini/)
  - 2025-01-13: [Autorun tasks on vscode startup](https://willschenk.com/labnotes/2025/autorun_tasks_on_vscode_startup/)
@@ -19,6 +19,14 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-12-03: [Load enviroments the nextjs way](https://willschenk.com/labnotes/2024/load_enviroments_the_nextjs_way/)
  - 2024-11-27: [The Focus AI](https://willschenk.com/fragments/2024/the_focus_ai/)
  - 2024-11-27: [Fixing vite errors when on github pages](https://willschenk.com/labnotes/2024/fixing_vite_errors_when_on_github_pages/)
+
+## Recent thefocus.ai posts
+
+ - 2025-01-12: [AI for research: DeepResearch a clear winner](https://thefocus.ai/posts/ai-for-research-deepresearch-wins/)
+ - 2025-01-09: [Learning on the go with NotebookLM](https://thefocus.ai/posts/notebooklm-for-research/)
+ - 2024-12-15: [Making hard things easier](https://thefocus.ai/posts/making-hard-things-easier/)
+ - 2024-11-29: [Welcome to The Focus AI](https://thefocus.ai/posts/about/)
+ - 2024-11-27: [Slicing up a design from figma](https://thefocus.ai/posts/slicing-a-design-from-figma/)
 
 ## Past
 

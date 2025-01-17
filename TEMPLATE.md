@@ -6,9 +6,13 @@ Currently I am the [proprietor of Cornwall Market](https://www.cornwallmarket.co
 
 I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app that helps you understand how to use your Tesla and Rivian a bit better.
 
-## Recent Blog Posts
+## Recent willschenk.com Blog Posts
 
 <!-- feed: https://willschenk.com/feed.xml -->
+
+## Recent thefocus.ai posts
+
+<!-- feed: https://thefocus.ai/rss.xml -->
 
 ## Past
 
