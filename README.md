@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent Blog Posts
 
+ - 2025-01-17: [Books in Gemini](https://willschenk.com/fragments/2025/books_in_gemini/)
  - 2025-01-13: [Autorun tasks on vscode startup](https://willschenk.com/labnotes/2025/autorun_tasks_on_vscode_startup/)
  - 2025-01-12: [Adding a font to astro](https://willschenk.com/labnotes/2025/adding_a_font_to_astro/)
  - 2025-01-10: [have openai help you use the terminal](https://willschenk.com/labnotes/2025/have_openai_help_you_use_the_terminal/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2024-12-03: [Load enviroments the nextjs way](https://willschenk.com/labnotes/2024/load_enviroments_the_nextjs_way/)
  - 2024-11-27: [The Focus AI](https://willschenk.com/fragments/2024/the_focus_ai/)
  - 2024-11-27: [Fixing vite errors when on github pages](https://willschenk.com/labnotes/2024/fixing_vite_errors_when_on_github_pages/)
- - 2024-11-27: [Adding seo and social to astro](https://willschenk.com/labnotes/2024/adding_seo_and_social_to_astro/)
 
 ## Past
 
@@ -30,8 +30,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-01-17: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-01-17: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
- - 2025-01-16: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2024-09-13: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - 
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
