@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-01-25: [Setting up OSX machine](https://willschenk.com/howto/2025/setting_up_osx_machine/)
  - 2025-01-19: [Plagiarism](https://willschenk.com/fragments/2025/plagiarism/)
  - 2025-01-17: [Books in Gemini](https://willschenk.com/fragments/2025/books_in_gemini/)
  - 2025-01-13: [Autorun tasks on vscode startup](https://willschenk.com/labnotes/2025/autorun_tasks_on_vscode_startup/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-01-09: [Open-WebUI to use ollama](https://willschenk.com/labnotes/2025/open_web_ui/)
  - 2024-12-16: [Unnecessary Knowledge](https://willschenk.com/fragments/2024/unnecessary_knowledge/)
  - 2024-12-03: [Load enviroments the nextjs way](https://willschenk.com/labnotes/2024/load_enviroments_the_nextjs_way/)
- - 2024-11-27: [The Focus AI](https://willschenk.com/fragments/2024/the_focus_ai/)
 
 ## Recent thefocus.ai posts
 
@@ -39,8 +39,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-01-25: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-01-21: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
- - 2025-01-19: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-01-17: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - Plan an ev road trip and look for chargers and food along the way
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
