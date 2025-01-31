@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-01-30: [llm cli tool](https://willschenk.com/labnotes/2025/llm_cli_tool/)
  - 2025-01-25: [Setting up OSX machine](https://willschenk.com/howto/2025/setting_up_osx_machine/)
  - 2025-01-19: [Plagiarism](https://willschenk.com/fragments/2025/plagiarism/)
  - 2025-01-17: [Books in Gemini](https://willschenk.com/fragments/2025/books_in_gemini/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-01-09: [Tools I like as an amateur](https://willschenk.com/fragments/2025/tools_i_like_as_an_amateur/)
  - 2025-01-09: [Open-WebUI to use ollama](https://willschenk.com/labnotes/2025/open_web_ui/)
  - 2024-12-16: [Unnecessary Knowledge](https://willschenk.com/fragments/2024/unnecessary_knowledge/)
- - 2024-12-03: [Load enviroments the nextjs way](https://willschenk.com/labnotes/2024/load_enviroments_the_nextjs_way/)
 
 ## Recent thefocus.ai posts
 
