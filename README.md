@@ -8,6 +8,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-02-02: [Weebo chat on your computer](https://willschenk.com/labnotes/2025/weebo_chat_on_your_computer/)
+ - 2025-02-02: [Plant Feelings](https://willschenk.com/fragments/2025/plant_feelings/)
  - 2025-01-31: [New o3 jsut dropped](https://willschenk.com/fragments/2025/new_o3_jsut_dropped/)
  - 2025-01-30: [llm cli tool](https://willschenk.com/labnotes/2025/llm_cli_tool/)
  - 2025-01-25: [Setting up OSX machine](https://willschenk.com/howto/2025/setting_up_osx_machine/)
@@ -17,8 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-01-12: [Adding a font to astro](https://willschenk.com/labnotes/2025/adding_a_font_to_astro/)
  - 2025-01-10: [have openai help you use the terminal](https://willschenk.com/labnotes/2025/have_openai_help_you_use_the_terminal/)
  - 2025-01-10: [asciinema for terminal recordings](https://willschenk.com/labnotes/2025/asciinema_for_terminal_recordings/)
- - 2025-01-09: [Tools I like as an amateur](https://willschenk.com/fragments/2025/tools_i_like_as_an_amateur/)
- - 2025-01-09: [Open-WebUI to use ollama](https://willschenk.com/labnotes/2025/open_web_ui/)
 
 ## Recent thefocus.ai posts
 
@@ -40,7 +40,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-01-31: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-02-03: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-01-31: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-01-17: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - Plan an ev road trip and look for chargers and food along the way
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
