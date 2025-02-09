@@ -8,6 +8,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-02-09: [No Snow 1948](https://willschenk.com/fragments/2025/no_snow_1948/)
+ - 2025-02-08: [Supabase Vercel Starter](https://willschenk.com/howto/2025/supabase_vercel_starter/)
  - 2025-02-04: [Using Github CLI](https://willschenk.com/labnotes/2025/using_github_cli/)
  - 2025-02-02: [Weebo chat on your computer](https://willschenk.com/labnotes/2025/weebo_chat_on_your_computer/)
  - 2025-02-02: [Plant Feelings](https://willschenk.com/fragments/2025/plant_feelings/)
@@ -17,8 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-01-19: [Plagiarism](https://willschenk.com/fragments/2025/plagiarism/)
  - 2025-01-17: [Books in Gemini](https://willschenk.com/fragments/2025/books_in_gemini/)
  - 2025-01-13: [Autorun tasks on vscode startup](https://willschenk.com/labnotes/2025/autorun_tasks_on_vscode_startup/)
- - 2025-01-12: [Adding a font to astro](https://willschenk.com/labnotes/2025/adding_a_font_to_astro/)
- - 2025-01-10: [have openai help you use the terminal](https://willschenk.com/labnotes/2025/have_openai_help_you_use_the_terminal/)
 
 ## Recent thefocus.ai posts
 
@@ -40,9 +40,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-02-09: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-08: [wschenk/send-email](https://github.com/wschenk/send-email) - supabase function for auth hook email replacement
  - 2025-02-04: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
- - 2025-02-04: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-01-17: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - Plan an ev road trip and look for chargers and food along the way
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
