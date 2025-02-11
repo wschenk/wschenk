@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/the-new-touch-interface/)
  - 2025-01-30: [Tools for thinking.  Everyday AI.](https://thefocus.ai/posts/tools-for-thinking/)
  - 2025-01-21: [How I classify models](https://thefocus.ai/posts/how-i-classify-models/)
  - 2025-01-12: [AI for research: DeepResearch a clear winner](https://thefocus.ai/posts/ai-for-research-deepresearch-wins/)
