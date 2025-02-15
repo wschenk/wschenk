@@ -41,6 +41,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-02-15: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-14: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-11: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
@@ -51,7 +52,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2024-09-12: [wschenk/chargerfrontend](https://github.com/wschenk/chargerfrontend) - A map of EV chargers in north america
  - 2024-09-10: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
  - 2024-09-09: [wschenk/nodepadjs](https://github.com/wschenk/nodepadjs) - Write short notes and store them in the url
- - 2024-09-07: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
