@@ -41,7 +41,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-02-15: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
+ - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-14: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-11: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
