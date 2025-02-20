@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-02-20: [Fonts with NextJS](https://willschenk.com/howto/2025/fonts_with_next_js/)
  - 2025-02-14: [Starlink review](https://willschenk.com/fragments/2025/starlink_review/)
  - 2025-02-09: [No Snow 1948](https://willschenk.com/fragments/2025/no_snow_1948/)
  - 2025-02-08: [Supabase Vercel Starter](https://willschenk.com/howto/2025/supabase_vercel_starter/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-01-30: [llm cli tool](https://willschenk.com/labnotes/2025/llm_cli_tool/)
  - 2025-01-25: [Setting up OSX machine](https://willschenk.com/howto/2025/setting_up_osx_machine/)
  - 2025-01-19: [Plagiarism](https://willschenk.com/fragments/2025/plagiarism/)
- - 2025-01-17: [Books in Gemini](https://willschenk.com/fragments/2025/books_in_gemini/)
 
 ## Recent thefocus.ai posts
 
@@ -41,8 +41,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-02-20: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
- - 2025-02-14: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-11: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
  - 2025-02-08: [wschenk/send-email](https://github.com/wschenk/send-email) - supabase function for auth hook email replacement
