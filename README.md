@@ -22,14 +22,14 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
- - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/the-new-touch-interface/)
- - 2025-01-30: [Tools for thinking.  Everyday AI.](https://thefocus.ai/posts/tools-for-thinking/)
- - 2025-01-21: [How I classify models](https://thefocus.ai/posts/how-i-classify-models/)
- - 2025-01-12: [AI for research: DeepResearch a clear winner](https://thefocus.ai/posts/ai-for-research-deepresearch-wins/)
- - 2025-01-09: [Learning on the go with NotebookLM](https://thefocus.ai/posts/notebooklm-for-research/)
- - 2024-12-15: [Making hard things easier](https://thefocus.ai/posts/making-hard-things-easier/)
- - 2024-11-29: [Welcome to The Focus AI](https://thefocus.ai/posts/about/)
- - 2024-11-27: [Slicing up a design from figma](https://thefocus.ai/posts/slicing-a-design-from-figma/)
+ - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/undefined/)
+ - 2025-01-30: [Tools for thinking.  Everyday AI.](https://thefocus.ai/posts/undefined/)
+ - 2025-01-21: [How I classify models](https://thefocus.ai/posts/undefined/)
+ - 2025-01-12: [AI for research: DeepResearch a clear winner](https://thefocus.ai/posts/undefined/)
+ - 2025-01-09: [Learning on the go with NotebookLM](https://thefocus.ai/posts/undefined/)
+ - 2024-12-15: [Making hard things easier](https://thefocus.ai/posts/undefined/)
+ - 2024-11-29: [Welcome to The Focus AI](https://thefocus.ai/posts/undefined/)
+ - 2024-11-27: [Slicing up a design from figma](https://thefocus.ai/posts/undefined/)
 
 ## Past
 
@@ -41,9 +41,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-02-21: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-20: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
- - 2025-02-11: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
  - 2025-02-08: [wschenk/send-email](https://github.com/wschenk/send-email) - supabase function for auth hook email replacement
  - 2025-01-17: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - Plan an ev road trip and look for chargers and food along the way
