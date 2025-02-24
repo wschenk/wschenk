@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-02-24: [Living in mktemp and git and codespaces](https://willschenk.com/articles/2025/living_in_mktemp_and_git/)
  - 2025-02-23: [AI Coding](https://willschenk.com/fragments/2025/ai_coding/)
  - 2025-02-21: [astro and shadcn](https://willschenk.com/labnotes/2025/astro_and_shadcn/)
  - 2025-02-20: [Fonts with NextJS](https://willschenk.com/howto/2025/fonts_with_next_js/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-02-02: [Weebo chat on your computer](https://willschenk.com/labnotes/2025/weebo_chat_on_your_computer/)
  - 2025-02-02: [Plant Feelings](https://willschenk.com/fragments/2025/plant_feelings/)
  - 2025-01-31: [New o3 jsut dropped](https://willschenk.com/fragments/2025/new_o3_jsut_dropped/)
- - 2025-01-30: [llm cli tool](https://willschenk.com/labnotes/2025/llm_cli_tool/)
 
 ## Recent thefocus.ai posts
 
