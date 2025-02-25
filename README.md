@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-02-25: [Clipboards are eating the world](https://thefocus.ai/posts/undefined/)
  - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/undefined/)
  - 2025-01-30: [Tools for thinking.  Everyday AI.](https://thefocus.ai/posts/undefined/)
  - 2025-01-21: [How I classify models](https://thefocus.ai/posts/undefined/)
@@ -41,8 +42,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-02-25: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-24: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
- - 2025-02-21: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
  - 2025-02-08: [wschenk/send-email](https://github.com/wschenk/send-email) - supabase function for auth hook email replacement
