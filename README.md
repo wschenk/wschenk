@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-02-27: [Emerson](https://willschenk.com/fragments/2025/emerson/)
  - 2025-02-26: [Running flux locally on a mac](https://willschenk.com/howto/2025/running_flux_locally_on_a_mac/)
  - 2025-02-24: [Living in mktemp and git and codespaces](https://willschenk.com/articles/2025/living_in_mktemp_and_git/)
  - 2025-02-23: [AI Coding](https://willschenk.com/fragments/2025/ai_coding/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-02-08: [Supabase Vercel Starter](https://willschenk.com/howto/2025/supabase_vercel_starter/)
  - 2025-02-04: [Using Github CLI](https://willschenk.com/labnotes/2025/using_github_cli/)
  - 2025-02-02: [Weebo chat on your computer](https://willschenk.com/labnotes/2025/weebo_chat_on_your_computer/)
- - 2025-02-02: [Plant Feelings](https://willschenk.com/fragments/2025/plant_feelings/)
 
 ## Recent thefocus.ai posts
 
@@ -42,7 +42,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-02-26: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-02-27: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-25: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
