@@ -42,8 +42,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-03-03: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - 
  - 2025-03-03: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2025-03-03: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - 
 
 
 ## Recent Repo activity
