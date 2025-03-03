@@ -22,9 +22,14 @@ I ran [HappyFunCorp](https://happyfuncorp.com) from Sept 2009 to Jan 2022. I ste
 
 I'm starting a new project in the fall around effectively leveraging AI and AI-enabled tools.
 
+## Recent Focus Repo activity
+
+<!-- The-Focus-AI repo activity -->
+
+
 ## Recent Repo activity
 
-<!-- repo activity -->
+<!-- wschenk repo activity -->
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)

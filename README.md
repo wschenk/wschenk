@@ -40,6 +40,11 @@ I ran [HappyFunCorp](https://happyfuncorp.com) from Sept 2009 to Jan 2022. I ste
 
 I'm starting a new project in the fall around effectively leveraging AI and AI-enabled tools.
 
+## Recent Focus Repo activity
+
+ - 2025-03-03: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+
+
 ## Recent Repo activity
 
  - 2025-03-03: [wschenk/thefocus-landing](https://github.com/wschenk/thefocus-landing) - Landing page for thefocus.ai
