@@ -42,8 +42,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-03-04: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
  - 2025-03-04: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-03-03: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - 
+ - 2025-03-04: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
 
 
 ## Recent Repo activity
