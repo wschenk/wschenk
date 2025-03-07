@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-03-07: [Agentic YOLO with Warp, Cursor, and Claude](https://thefocus.ai/posts/undefined/)
  - 2025-02-25: [Clipboards are eating the world](https://thefocus.ai/posts/undefined/)
  - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/undefined/)
  - 2025-01-30: [Tools for thinking.  Everyday AI.](https://thefocus.ai/posts/undefined/)
