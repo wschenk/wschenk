@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-03-10: [Telegram Build Bot](https://willschenk.com/labnotes/2025/telegram_build_bot/)
  - 2025-03-10: [Mistral AI is Le French](https://willschenk.com/fragments/2025/mistral_ai_is_le_french/)
  - 2025-02-27: [Emerson](https://willschenk.com/fragments/2025/emerson/)
  - 2025-02-26: [Running flux locally on a mac](https://willschenk.com/howto/2025/running_flux_locally_on_a_mac/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-02-14: [Starlink review](https://willschenk.com/fragments/2025/starlink_review/)
  - 2025-02-09: [No Snow 1948](https://willschenk.com/fragments/2025/no_snow_1948/)
  - 2025-02-08: [Supabase Vercel Starter](https://willschenk.com/howto/2025/supabase_vercel_starter/)
- - 2025-02-04: [Using Github CLI](https://willschenk.com/labnotes/2025/using_github_cli/)
 
 ## Recent thefocus.ai posts
 
