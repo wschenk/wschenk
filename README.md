@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-03-10: [Mistral AI is Le French](https://willschenk.com/fragments/2025/mistral_ai_is_le_french/)
  - 2025-02-27: [Emerson](https://willschenk.com/fragments/2025/emerson/)
  - 2025-02-26: [Running flux locally on a mac](https://willschenk.com/howto/2025/running_flux_locally_on_a_mac/)
  - 2025-02-24: [Living in mktemp and git and codespaces](https://willschenk.com/articles/2025/living_in_mktemp_and_git/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-02-09: [No Snow 1948](https://willschenk.com/fragments/2025/no_snow_1948/)
  - 2025-02-08: [Supabase Vercel Starter](https://willschenk.com/howto/2025/supabase_vercel_starter/)
  - 2025-02-04: [Using Github CLI](https://willschenk.com/labnotes/2025/using_github_cli/)
- - 2025-02-02: [Weebo chat on your computer](https://willschenk.com/labnotes/2025/weebo_chat_on_your_computer/)
 
 ## Recent thefocus.ai posts
 
@@ -51,8 +51,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2025-03-10: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
- - 2025-02-27: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
  - 2025-02-08: [wschenk/send-email](https://github.com/wschenk/send-email) - supabase function for auth hook email replacement
