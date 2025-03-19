@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-03-19: [Knowledge Navigator](https://willschenk.com/fragments/2025/knowledge_navigator/)
  - 2025-03-10: [Telegram Build Bot](https://willschenk.com/labnotes/2025/telegram_build_bot/)
  - 2025-03-10: [Mistral AI is Le French](https://willschenk.com/fragments/2025/mistral_ai_is_le_french/)
  - 2025-02-27: [Emerson](https://willschenk.com/fragments/2025/emerson/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-02-20: [Fonts with NextJS](https://willschenk.com/howto/2025/fonts_with_next_js/)
  - 2025-02-14: [Starlink review](https://willschenk.com/fragments/2025/starlink_review/)
  - 2025-02-09: [No Snow 1948](https://willschenk.com/fragments/2025/no_snow_1948/)
- - 2025-02-08: [Supabase Vercel Starter](https://willschenk.com/howto/2025/supabase_vercel_starter/)
 
 ## Recent thefocus.ai posts
 
@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-03-19: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - 
  - 2025-03-19: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-19: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-18: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
@@ -56,7 +57,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-03-10: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-03-19: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
