@@ -22,7 +22,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
- - 2025-03-19: [Image Gen on Apple Silicon](https://thefocus.ai/use-cases/flux-images/)
  - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipes/)
  - 2025-03-18: [[Recipe] Superwhisper for input](https://thefocus.ai/recipes/superwhisper/)
  - 2025-03-18: [[Recipe] Talking to the models in the car](https://thefocus.ai/recipes/talking-in-the-car/)
@@ -33,6 +32,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-14: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix/)
  - 2025-03-14: [[Recipe] Understanding a code base](https://thefocus.ai/recipes/understanding-a-codebase/)
  - 2025-03-07: [Agentic YOLO with Warp, Cursor, and Claude](https://thefocus.ai/posts/agentic-yolo-with-warp-cursor-and-claude/)
+ - 2025-02-25: [Clipboards are eating the world](https://thefocus.ai/posts/clipboards-are-eating-the-world/)
 
 ## Past
 
@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-03-19: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-19: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-03-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-18: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
  - 2025-03-18: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-03-17: [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli) - CLI and ModelContextProtocol interface to tezlab
