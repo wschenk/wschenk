@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-03-23: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-23: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - 
- - 2025-03-22: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-21: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-03-21: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
  - 2025-03-21: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
