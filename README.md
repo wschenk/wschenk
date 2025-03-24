@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-03-24: [Moral Vibe Check](https://thefocus.ai/posts/moral-vibe-check/)
  - 2025-03-21: [Image Gen on Apple Silicon](https://thefocus.ai/use-cases/flux-images/)
  - 2025-03-20: [[Recipe] Adding Memory to Cursor](https://thefocus.ai/recipes/add-memory-to-cursor/)
  - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-16: [[Recipe] Extracting requirements](https://thefocus.ai/recipes/extracting-requirements/)
  - 2025-03-15: [Exposing Services with MCP](https://thefocus.ai/posts/exposing-services-with-mcp/)
  - 2025-03-15: [[Recipe] Write git-commit-messages](https://thefocus.ai/recipes/git-commit-messages/)
- - 2025-03-15: [[Recipe] Making Meta Data](https://thefocus.ai/recipes/making-meta-data/)
 
 ## Past
 
@@ -44,7 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-03-23: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-03-24: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-23: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-03-23: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
  - 2025-03-23: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
