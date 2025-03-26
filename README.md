@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-03-26: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-03-24: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-24: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
  - 2025-03-23: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-03-21: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-21: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
  - 2025-03-18: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
- - 2025-03-17: [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli) - CLI and ModelContextProtocol interface to tezlab
 
 
 ## Recent Repo activity
