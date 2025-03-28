@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-03-28: [Fonts from a website](https://willschenk.com/labnotes/2025/fonts_from_a_website/)
  - 2025-03-22: [Talking to Cursor](https://willschenk.com/fragments/2025/talking_to_cursor/)
  - 2025-03-19: [Knowledge Navigator](https://willschenk.com/fragments/2025/knowledge_navigator/)
  - 2025-03-10: [Telegram Build Bot](https://willschenk.com/labnotes/2025/telegram_build_bot/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-02-23: [AI Coding](https://willschenk.com/fragments/2025/ai_coding/)
  - 2025-02-21: [astro and shadcn](https://willschenk.com/labnotes/2025/astro_and_shadcn/)
  - 2025-02-20: [Fonts with NextJS](https://willschenk.com/howto/2025/fonts_with_next_js/)
- - 2025-02-14: [Starlink review](https://willschenk.com/fragments/2025/starlink_review/)
 
 ## Recent thefocus.ai posts
 
@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-03-28: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-28: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
- - 2025-03-27: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-26: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
  - 2025-03-24: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-03-22: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-03-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
