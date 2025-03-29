@@ -28,8 +28,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
  - 2025-03-19: [[Recipe] Make it easy to load and update your prompt library](https://thefocus.ai/recipes/load-and-save-your-prompts/)
  - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipes/)
- - 2025-03-18: [[Recipe] Talking to the models in the car](https://thefocus.ai/recipes/talking-in-the-car/)
  - 2025-03-18: [[Recipe] Superwhisper for input](https://thefocus.ai/recipes/superwhisper/)
+ - 2025-03-18: [[Recipe] Talking to the models in the car](https://thefocus.ai/recipes/talking-in-the-car/)
  - 2025-03-16: [[Recipe] Extracting requirements](https://thefocus.ai/recipes/extracting-requirements/)
  - 2025-03-15: [Exposing Services with MCP](https://thefocus.ai/posts/exposing-services-with-mcp/)
  - 2025-03-15: [[Recipe] Write git-commit-messages](https://thefocus.ai/recipes/git-commit-messages/)
@@ -44,7 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-03-28: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-03-29: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-03-28: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-03-26: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
