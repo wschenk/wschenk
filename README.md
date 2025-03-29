@@ -45,6 +45,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Focus Repo activity
 
  - 2025-03-29: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - 
  - 2025-03-28: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-03-26: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-03-23: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
  - 2025-03-21: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
  - 2025-03-21: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-03-21: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
 
 
 ## Recent Repo activity
