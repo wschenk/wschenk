@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-04-02: [[Recipe] Lift and shift](https://thefocus.ai/recipes/lift-and-shift/)
  - 2025-03-31: [[Recipe] Claude to write midjourney prompts](https://thefocus.ai/recipes/using-claude-to-write-midjourney-prompts/)
  - 2025-03-30: [Schema-Driven AI: Better User Experiences with Structured Output](https://thefocus.ai/posts/using-structured-output/)
  - 2025-03-24: [Moral Vibe Check](https://thefocus.ai/posts/moral-vibe-check/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipes/)
  - 2025-03-18: [[Recipe] Superwhisper for input](https://thefocus.ai/recipes/superwhisper/)
  - 2025-03-18: [[Recipe] Talking to the models in the car](https://thefocus.ai/recipes/talking-in-the-car/)
- - 2025-03-16: [[Recipe] Extracting requirements](https://thefocus.ai/recipes/extracting-requirements/)
 
 ## Past
 
@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-03-31: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
- - 2025-03-31: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
+ - 2025-04-02: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-04-02: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
  - 2025-03-31: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-30: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
