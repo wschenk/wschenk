@@ -22,6 +22,8 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-05-28: [[Recipe] Content Finder](https://thefocus.ai/recipes/content-finder/)
+ - 2025-05-28: [[Recipe] Geolocation Prompt](https://thefocus.ai/recipes/geolocation-prompt/)
  - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
  - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
  - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
@@ -31,8 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-30: [Schema-Driven AI: Better User Experiences with Structured Output](https://thefocus.ai/posts/using-structured-output/)
  - 2025-03-24: [Moral Vibe Check](https://thefocus.ai/posts/moral-vibe-check/)
  - 2025-03-21: [Image Gen on Apple Silicon](https://thefocus.ai/use-cases/flux-images/)
- - 2025-03-20: [[Recipe] Adding Memory to Cursor](https://thefocus.ai/recipes/add-memory-to-cursor/)
- - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
 
 ## Past
 
@@ -45,8 +45,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Focus Repo activity
 
  - 2025-05-28: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-05-28: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-05-28: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
- - 2025-05-22: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-04-23: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
  - 2025-04-23: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
  - 2025-04-11: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
