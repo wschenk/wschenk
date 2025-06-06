@@ -44,8 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-06-06: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-06: [The-Focus-AI/idears-codex-agent](https://github.com/The-Focus-AI/idears-codex-agent) - 
+ - 2025-06-06: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - 
+ - 2025-06-06: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-05: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - 
  - 2025-06-05: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - 
  - 2025-06-05: [The-Focus-AI/idears-codex](https://github.com/The-Focus-AI/idears-codex) - 
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-06-05: [The-Focus-AI/idears-aider](https://github.com/The-Focus-AI/idears-aider) - 
  - 2025-06-05: [The-Focus-AI/idears-claude](https://github.com/The-Focus-AI/idears-claude) - 
  - 2025-06-04: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-05-30: [The-Focus-AI/warc_viewer](https://github.com/The-Focus-AI/warc_viewer) - View cdx and warc files, caching them locally as needed
 
 
 ## Recent Repo activity
