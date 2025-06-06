@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-06-06: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - 
  - 2025-06-06: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-06-06: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - 
  - 2025-06-06: [The-Focus-AI/idears-codex-agent](https://github.com/The-Focus-AI/idears-codex-agent) - 
  - 2025-06-06: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - 
  - 2025-06-05: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - 
