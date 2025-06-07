@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-05-28: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-07: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-07: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - June 25 Agent Evaluation
  - 2025-06-07: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - June 25 Agent Evaluation
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-06-07: [The-Focus-AI/idears-claude](https://github.com/The-Focus-AI/idears-claude) - June 25 Agent Evaluation
  - 2025-06-07: [The-Focus-AI/idears-aider](https://github.com/The-Focus-AI/idears-aider) - June 25 Agent Evaluation
  - 2025-06-07: [The-Focus-AI/idears-windsurf](https://github.com/The-Focus-AI/idears-windsurf) - 
- - 2025-06-07: [The-Focus-AI/idears-codex-agent](https://github.com/The-Focus-AI/idears-codex-agent) - June 25 Agent Evaluation
 
 
 ## Recent Repo activity
