@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-06-09: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-09: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-06-08: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-08: [The-Focus-AI/discord-feed](https://github.com/The-Focus-AI/discord-feed) - 
  - 2025-06-08: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-07: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - June 25 Agent Evaluation
