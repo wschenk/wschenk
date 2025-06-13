@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-06-13: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-13: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-13: [The-Focus-AI/idears-replit](https://github.com/The-Focus-AI/idears-replit) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
@@ -54,12 +55,11 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-06-12: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-goose](https://github.com/The-Focus-AI/idears-goose) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-cursor](https://github.com/The-Focus-AI/idears-cursor) - June 25 Agent Evaluation
 
 
 ## Recent Repo activity
 
- - 2025-05-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-06-13: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
