@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-06-15: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-06-14: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-14: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-13: [The-Focus-AI/idears-replit](https://github.com/The-Focus-AI/idears-replit) - June 25 Agent Evaluation
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-06-12: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-goose](https://github.com/The-Focus-AI/idears-goose) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - June 25 Agent Evaluation
 
 
 ## Recent Repo activity
