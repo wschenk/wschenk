@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-06-18: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-06-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-06-18: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-15: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-06-12: [The-Focus-AI/idears-v0](https://github.com/The-Focus-AI/idears-v0) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-goose](https://github.com/The-Focus-AI/idears-goose) - June 25 Agent Evaluation
 
 
 ## Recent Repo activity
