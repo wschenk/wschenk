@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-06-29: [How to turn aerospace into an Application Launcher](https://willschenk.com/howto/2025/how_to_turn_aerospace_into_an_application_launcher/)
  - 2025-06-28: [Setting and using Aerospace](https://willschenk.com/howto/2025/setting_and_using_aerospace/)
  - 2025-06-13: [Making a whitepaper from a PDF](https://willschenk.com/howto/2025/making_a_whitepaper_from_a_pdf/)
  - 2025-05-27: [Lightpanda to markdown](https://willschenk.com/labnotes/2025/lightpanda_as_a_service/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-10: [Telegram Build Bot](https://willschenk.com/labnotes/2025/telegram_build_bot/)
  - 2025-03-10: [Mistral AI is Le French](https://willschenk.com/fragments/2025/mistral_ai_is_le_french/)
  - 2025-02-27: [Emerson](https://willschenk.com/fragments/2025/emerson/)
- - 2025-02-26: [Running flux locally on a mac](https://willschenk.com/howto/2025/running_flux_locally_on_a_mac/)
 
 ## Recent thefocus.ai posts
 
