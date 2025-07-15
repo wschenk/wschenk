@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-07-15: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-07-15: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
  - 2025-07-15: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-07-15: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
@@ -53,7 +54,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-07-15: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-07-15: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-07-15: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
- - 2025-07-15: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-07-15: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
 
 
