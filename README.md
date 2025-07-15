@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-07-15: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-07-14: [The-Focus-AI/june-2025-coding-agent-report](https://github.com/The-Focus-AI/june-2025-coding-agent-report) - Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.
- - 2025-07-14: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-07-14: [The-Focus-AI/github-search](https://github.com/The-Focus-AI/github-search) - Analyze and summarize GitHub repositories for file patterns, structure, and rules. Generates reports and keeps checked-out code for inspection.
  - 2025-07-14: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-07-11: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
