@@ -48,9 +48,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-07-15: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
  - 2025-07-15: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-07-15: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
- - 2025-07-15: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
+ - 2025-07-17: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-07-15: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
- - 2025-07-15: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
+ - 2025-07-17: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
  - 2025-07-15: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-07-15: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-07-15: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
