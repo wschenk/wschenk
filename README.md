@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-08-13: [gpt-5 and gpt-oss](https://thefocus.ai/posts/gpt5-and-gpt-oss/)
  - 2025-07-08: [[Recipe] Dagger and Container Use](https://thefocus.ai/recipes/dagger-and-container-use/)
  - 2025-07-03: [Technical Debt and the ROI Threshold](https://thefocus.ai/posts/technical-debt-and-the-roi-threshhold/)
  - 2025-06-30: [[Recipe] Use Cursor in Slack](https://thefocus.ai/recipes/use-cursor-in-slack/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-05-28: [[Recipe] Geolocation Prompt](https://thefocus.ai/recipes/geolocation-prompt/)
  - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
  - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
- - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
 
 ## Past
 
@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-08-13: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-08-13: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-08-13: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-08-09: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-07-15: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
  - 2025-07-18: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
  - 2025-07-15: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
- - 2025-07-15: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
 
 
 ## Recent Repo activity
