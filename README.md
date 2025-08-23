@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-08-23: [The-Focus-AI/readbar](https://github.com/The-Focus-AI/readbar) - macOS Menubar PDF/EPUB File Tracker - A simple menubar app to track and manage your reading files
  - 2025-08-23: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-08-23: [The-Focus-AI/readbar](https://github.com/The-Focus-AI/readbar) - macOS Menubar PDF/EPUB File Tracker - A simple menubar app to track and manage your reading files
  - 2025-08-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-08-23: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-08-22: [The-Focus-AI/confirm-osx](https://github.com/The-Focus-AI/confirm-osx) - A Swift command line utility that displays native macOS confirmation dialogs with optional Touch ID/password authentication. Perfect for scripts that need user confirmation before executing critical operations.
