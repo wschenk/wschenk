@@ -9,6 +9,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 ## Recent willschenk.com Blog Posts
 
  - 2025-08-25: [Move to Mise](https://willschenk.com/labnotes/2025/move_to_mise/)
+ - 2025-08-25: [Claude Code in Emacs](https://willschenk.com/howto/2025/claude_code_in_emacs/)
  - 2025-07-15: [The Solemn Silence of Written Words](https://willschenk.com/fragments/2025/the_solemn_silence_of_written_words/)
  - 2025-06-29: [How to turn aerospace into an Application Launcher](https://willschenk.com/howto/2025/how_to_turn_aerospace_into_an_application_launcher/)
  - 2025-06-28: [Setting and using Aerospace](https://willschenk.com/howto/2025/setting_and_using_aerospace/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-03-28: [Fonts from a website](https://willschenk.com/labnotes/2025/fonts_from_a_website/)
  - 2025-03-22: [Talking to Cursor](https://willschenk.com/fragments/2025/talking_to_cursor/)
  - 2025-03-19: [Knowledge Navigator](https://willschenk.com/fragments/2025/knowledge_navigator/)
- - 2025-03-10: [Telegram Build Bot](https://willschenk.com/labnotes/2025/telegram_build_bot/)
 
 ## Recent thefocus.ai posts
 
