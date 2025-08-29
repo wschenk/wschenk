@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-08-29: [psychasthenia](https://willschenk.com/fragments/2025/psychasthenia/)
  - 2025-08-26: [go wormhole](https://willschenk.com/labnotes/2025/go_wormhole/)
  - 2025-08-25: [Move to Mise](https://willschenk.com/labnotes/2025/move_to_mise/)
  - 2025-08-25: [Claude Code in Emacs](https://willschenk.com/howto/2025/claude_code_in_emacs/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-05-27: [Lightpanda to markdown](https://willschenk.com/labnotes/2025/lightpanda_as_a_service/)
  - 2025-05-19: [What we are most subtle in](https://willschenk.com/fragments/2025/what_we_are_most_subtle_in/)
  - 2025-03-28: [Fonts from a website](https://willschenk.com/labnotes/2025/fonts_from_a_website/)
- - 2025-03-22: [Talking to Cursor](https://willschenk.com/fragments/2025/talking_to_cursor/)
 
 ## Recent thefocus.ai posts
 
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-08-26: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-08-29: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-08-26: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
