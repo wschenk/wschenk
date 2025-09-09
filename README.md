@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-09-09: [The-Focus-AI/s3-bucket-sync](https://github.com/The-Focus-AI/s3-bucket-sync) - A TypeScript tool that downloads all files from an S3 bucket into daily directories for historical tracking. Includes AWS IAM setup, diagnostic tools, and automated sync capabilities.
  - 2025-09-09: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-08-23: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-09-04: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-08-24: [The-Focus-AI/gemini-summarize](https://github.com/The-Focus-AI/gemini-summarize) - A command line tool that extracts metadata from PDF and EPUB files using Google Gemini AI with automatic 1Password integration and smart caching
  - 2025-08-22: [The-Focus-AI/confirm-osx](https://github.com/The-Focus-AI/confirm-osx) - A Swift command line utility that displays native macOS confirmation dialogs with optional Touch ID/password authentication. Perfect for scripts that need user confirmation before executing critical operations.
  - 2025-08-09: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
- - 2025-07-15: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
 
 
 ## Recent Repo activity
