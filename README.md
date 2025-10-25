@@ -47,7 +47,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-10-22: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-10-22: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-10-22: [The-Focus-AI/data-agent-builder](https://github.com/The-Focus-AI/data-agent-builder) - LLM-driven Excel to SQLite data import tool with AI-powered column naming and intelligent data analysis
- - 2025-10-22: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
+ - 2025-10-25: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
  - 2025-10-10: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-09-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-09-12: [The-Focus-AI/umwelten-examples](https://github.com/The-Focus-AI/umwelten-examples) - A collection of examples demonstrating different approaches to building AI chat applications with tool calling capabilities using the Umwelten framework, Vercel AI SDK, and modern web technologies.
