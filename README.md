@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-11-12: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
  - 2025-11-10: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-10-10: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-09-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-09-12: [The-Focus-AI/umwelten-examples](https://github.com/The-Focus-AI/umwelten-examples) - A collection of examples demonstrating different approaches to building AI chat applications with tool calling capabilities using the Umwelten framework, Vercel AI SDK, and modern web technologies.
- - 2025-09-09: [The-Focus-AI/s3-bucket-sync](https://github.com/The-Focus-AI/s3-bucket-sync) - A TypeScript tool that downloads all files from an S3 bucket into daily directories for historical tracking. Includes AWS IAM setup, diagnostic tools, and automated sync capabilities.
 
 
 ## Recent Repo activity
