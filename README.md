@@ -44,7 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-11-12: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
+ - 2025-11-13: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
  - 2025-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
