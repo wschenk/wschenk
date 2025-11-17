@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-11-17: [Notes on an 11 day water fast](https://willschenk.com/articles/2025/notes_on_a_11_day_water_fast/)
  - 2025-09-08: [Weekend Update](https://willschenk.com/fragments/2025/weekend_update/)
  - 2025-08-29: [psychasthenia](https://willschenk.com/fragments/2025/psychasthenia/)
  - 2025-08-26: [go wormhole](https://willschenk.com/labnotes/2025/go_wormhole/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-06-28: [Setting and using Aerospace](https://willschenk.com/howto/2025/setting_and_using_aerospace/)
  - 2025-06-13: [Making a whitepaper from a PDF](https://willschenk.com/howto/2025/making_a_whitepaper_from_a_pdf/)
  - 2025-05-27: [Lightpanda to markdown](https://willschenk.com/labnotes/2025/lightpanda_as_a_service/)
- - 2025-05-19: [What we are most subtle in](https://willschenk.com/fragments/2025/what_we_are_most_subtle_in/)
 
 ## Recent thefocus.ai posts
 
