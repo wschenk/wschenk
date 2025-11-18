@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-11-18: [Interesting ATProto Projects in the Wild](https://willschenk.com/articles/2025/interesting_atproto_projects/)
  - 2025-11-17: [Notes on an 11 day water fast](https://willschenk.com/articles/2025/notes_on_a_11_day_water_fast/)
  - 2025-09-08: [Weekend Update](https://willschenk.com/fragments/2025/weekend_update/)
  - 2025-08-29: [psychasthenia](https://willschenk.com/fragments/2025/psychasthenia/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-06-29: [How to turn aerospace into an Application Launcher](https://willschenk.com/howto/2025/how_to_turn_aerospace_into_an_application_launcher/)
  - 2025-06-28: [Setting and using Aerospace](https://willschenk.com/howto/2025/setting_and_using_aerospace/)
  - 2025-06-13: [Making a whitepaper from a PDF](https://willschenk.com/howto/2025/making_a_whitepaper_from_a_pdf/)
- - 2025-05-27: [Lightpanda to markdown](https://willschenk.com/labnotes/2025/lightpanda_as_a_service/)
 
 ## Recent thefocus.ai posts
 
@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-11-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-11-18: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
- - 2025-11-17: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
  - 2025-11-05: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2025-11-17: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2025-11-18: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-10-02: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
