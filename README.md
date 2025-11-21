@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-11-21: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
  - 2025-11-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-11-18: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-10-29: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
  - 2025-10-10: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-09-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
- - 2025-09-12: [The-Focus-AI/umwelten-examples](https://github.com/The-Focus-AI/umwelten-examples) - A collection of examples demonstrating different approaches to building AI chat applications with tool calling capabilities using the Umwelten framework, Vercel AI SDK, and modern web technologies.
 
 
 ## Recent Repo activity
