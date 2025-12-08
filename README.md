@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2025-12-08: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2025-12-08: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2025-12-08: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2025-12-08: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
  - 2025-12-07: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
  - 2025-12-07: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
