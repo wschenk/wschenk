@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
  - 2025-12-10: [AI tools fail loudly where humans failed quietly](https://thefocus.ai/posts/good-for-human-good-for-ai/)
  - 2025-12-05: [[Recipe] The Smallest Coding Agent](https://thefocus.ai/recipes/smallest-coding-agent/)
  - 2025-11-22: [AI Engineering Summit 2025: Bash-Pilled and Building for Everyone](https://thefocus.ai/posts/2025-11-22-ai-engineering-summit-takeaways/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-09-01: [[Recipe] use playwright mcp to get high fidelity designs](https://thefocus.ai/recipes/playwright-mcp/)
  - 2025-08-22: [Single file swift mini-apps](https://thefocus.ai/posts/single-file-swift-code/)
  - 2025-08-20: [Code Generation with Local Models](https://thefocus.ai/posts/local-models-typescript/)
- - 2025-08-13: [gpt-5 and gpt-oss](https://thefocus.ai/posts/gpt5-and-gpt-oss/)
 
 ## Past
 
@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-12-16: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-12-16: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-12-15: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-12-03: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
  - 2025-12-09: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2025-12-09: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
