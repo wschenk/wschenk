@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2025-12-17: [Computer Held Accountable](https://willschenk.com/fragments/2025/computer_held_accountable/)
  - 2025-11-22: [Agent Kickoff](https://willschenk.com/fragments/2025/agent_kickoff/)
  - 2025-11-18: [Interesting ATProto Projects in the Wild](https://willschenk.com/articles/2025/interesting_atproto_projects/)
  - 2025-11-17: [Notes on an 11 day water fast](https://willschenk.com/articles/2025/notes_on_a_11_day_water_fast/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-08-25: [Claude Code in Emacs](https://willschenk.com/howto/2025/claude_code_in_emacs/)
  - 2025-07-15: [The Solemn Silence of Written Words](https://willschenk.com/fragments/2025/the_solemn_silence_of_written_words/)
  - 2025-06-29: [How to turn aerospace into an Application Launcher](https://willschenk.com/howto/2025/how_to_turn_aerospace_into_an_application_launcher/)
- - 2025-06-28: [Setting and using Aerospace](https://willschenk.com/howto/2025/setting_and_using_aerospace/)
 
 ## Recent thefocus.ai posts
 
@@ -44,9 +44,10 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2025-12-17: [The-Focus-AI/weekend-warrior](https://github.com/The-Focus-AI/weekend-warrior) - Weekend coding projects and experiments from TheFocus.AI Labs
+ - 2025-12-17: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
  - 2025-12-16: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-12-16: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-12-03: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
  - 2025-12-09: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2025-12-09: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2025-12-08: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
@@ -54,13 +55,12 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-12-07: [The-Focus-AI/data-agent-builder](https://github.com/The-Focus-AI/data-agent-builder) - LLM-driven Excel to SQLite data import tool with AI-powered column naming and intelligent data analysis
  - 2025-12-07: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
  - 2025-12-07: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
- - 2025-12-06: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
 
 
 ## Recent Repo activity
 
+ - 2025-12-17: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
- - 2025-11-22: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
