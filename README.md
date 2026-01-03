@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
  - 2025-12-17: [[Recipe] Build Your Own Coding Agent](https://thefocus.ai/reports/coding-agent/)
  - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
  - 2025-12-10: [AI tools fail loudly where humans failed quietly](https://thefocus.ai/posts/good-for-human-good-for-ai/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-09-08: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix-redux/)
  - 2025-09-04: [gpt5 is smarter than you are](https://thefocus.ai/posts/gpt5/)
  - 2025-09-01: [[Recipe] context7-mcp](https://thefocus.ai/recipes/context7-mcp/)
- - 2025-09-01: [[Recipe] use playwright mcp to get high fidelity designs](https://thefocus.ai/recipes/playwright-mcp/)
 
 ## Past
 
@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-01-03: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-03: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2026-01-03: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2025-12-19: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
  - 2025-12-19: [The-Focus-AI/weekend-warrior](https://github.com/The-Focus-AI/weekend-warrior) - Weekend coding projects and experiments from TheFocus.AI Labs
  - 2025-12-09: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
