@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-01-11: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-01-11: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-11: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-01-11: [The-Focus-AI/buttondown-skill](https://github.com/The-Focus-AI/buttondown-skill) - Claude Code plugin skill for managing Buttondown newsletters - create drafts, schedule emails, view analytics
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-01-10: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-01-04: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
  - 2025-12-07: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
- - 2025-12-07: [The-Focus-AI/data-agent-builder](https://github.com/The-Focus-AI/data-agent-builder) - LLM-driven Excel to SQLite data import tool with AI-powered column naming and intelligent data analysis
 
 
 ## Recent Repo activity
