@@ -44,17 +44,17 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-01-18: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-01-18: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter aggregation and analysis system with Focus Labs-branded markdown viewer. Syncs emails from Gmail, generates weekly AI-powered summaries, and renders any GitHub markdown with custom styling.
- - 2026-01-17: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-01-18: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-01-18: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
+ - 2026-01-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-17: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-01-18: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
  - 2026-01-17: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
  - 2026-01-17: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
  - 2026-01-17: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-01-17: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
- - 2026-01-17: [The-Focus-AI/buttondown-skill](https://github.com/The-Focus-AI/buttondown-skill) - Claude Code plugin skill for managing Buttondown newsletters - create drafts, schedule emails, view analytics
- - 2026-01-17: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
 
 
 ## Recent Repo activity
