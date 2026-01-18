@@ -44,9 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-01-18: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter aggregation and analysis system with Focus Labs-branded markdown viewer. Syncs emails from Gmail, generates weekly AI-powered summaries, and renders any GitHub markdown with custom styling.
  - 2026-01-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-18: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
- - 2026-01-18: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter aggregation and analysis system with Focus Labs-branded markdown viewer. Syncs emails from Gmail, generates weekly AI-powered summaries, and renders any GitHub markdown with custom styling.
  - 2026-01-18: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-01-18: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-01-17: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
