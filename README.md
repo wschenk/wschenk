@@ -44,9 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-01-21: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-01-21: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-21: [The-Focus-AI/turing-reading](https://github.com/The-Focus-AI/turing-reading) - 
- - 2026-01-21: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-01-21: [The-Focus-AI/microsoft-skill](https://github.com/The-Focus-AI/microsoft-skill) - Microsoft Graph API skill for Claude Code and AI agents
  - 2026-01-21: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-01-20: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
