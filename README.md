@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
  - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
  - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
  - 2025-12-17: [[Recipe] Build Your Own Coding Agent](https://thefocus.ai/reports/coding-agent/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-11-22: [AI Engineering Summit 2025: Bash-Pilled and Building for Everyone](https://thefocus.ai/posts/2025-11-22-ai-engineering-summit-takeaways/)
  - 2025-11-20: [AI Engineering Code Summit 2025: Deep Dive Report](https://thefocus.ai/reports/aiecode-2025-11/)
  - 2025-09-08: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix-redux/)
- - 2025-09-04: [gpt5 is smarter than you are](https://thefocus.ai/posts/gpt5/)
 
 ## Past
 
@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-01-22: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-01-21: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-21: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-01-21: [The-Focus-AI/turing-reading](https://github.com/The-Focus-AI/turing-reading) - 
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-01-19: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-01-19: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-01-18: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
- - 2026-01-17: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
 
 
 ## Recent Repo activity
