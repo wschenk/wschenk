@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-01-22: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-22: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
+ - 2026-01-22: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-01-22: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
  - 2026-01-22: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-01-21: [The-Focus-AI/turing-reading](https://github.com/The-Focus-AI/turing-reading) - 
