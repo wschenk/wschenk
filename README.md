@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-02-01: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-02-01: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-02-01: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-02-01: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-01: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2026-01-30: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
