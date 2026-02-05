@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2026-02-05: [The Agent Habitat](https://thefocus.ai/posts/agent-habitat/)
  - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
  - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
  - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-11-29: [Weekend Coding Agent: Build Your Own AI Assistant](https://thefocus.ai/reports/coding-agent/)
  - 2025-11-22: [AI Engineering Summit 2025: Bash-Pilled and Building for Everyone](https://thefocus.ai/posts/2025-11-22-ai-engineering-summit-takeaways/)
  - 2025-11-20: [AI Engineering Code Summit 2025: Deep Dive Report](https://thefocus.ai/reports/aiecode-2025-11/)
- - 2025-09-08: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix-redux/)
 
 ## Past
 
@@ -45,6 +45,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Focus Repo activity
 
  - 2026-02-05: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-02-05: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-02-05: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-02-03: [The-Focus-AI/ops-hub-template](https://github.com/The-Focus-AI/ops-hub-template) - AI-powered operations hub for consulting firms and agencies. Track clients, invoices, tasks, sales, hiring, and finances — all from markdown files managed by Claude Code.
  - 2026-02-03: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
@@ -52,7 +53,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-02-01: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-02-01: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-01: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
- - 2026-01-30: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-01-26: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-01-26: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
 
