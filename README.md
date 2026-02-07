@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2026-02-07: [Into the Singularity](https://willschenk.com/fragments/2026/into_the_singularity/)
  - 2026-01-07: [Jack Clark on Tetragrammaton](https://willschenk.com/fragments/2026/jack_clark_tetragrammaton/)
  - 2025-12-30: [Unreasonable Effectiveness of Compute](https://willschenk.com/fragments/2025/unreasonable_effectiveness_of_compute/)
  - 2025-12-17: [Computer Held Accountable](https://willschenk.com/fragments/2025/computer_held_accountable/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-08-29: [psychasthenia](https://willschenk.com/fragments/2025/psychasthenia/)
  - 2025-08-26: [go wormhole](https://willschenk.com/labnotes/2025/go_wormhole/)
  - 2025-08-25: [Move to Mise](https://willschenk.com/labnotes/2025/move_to_mise/)
- - 2025-08-25: [Claude Code in Emacs](https://willschenk.com/howto/2025/claude_code_in_emacs/)
 
 ## Recent thefocus.ai posts
 
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2026-01-07: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2026-02-07: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
