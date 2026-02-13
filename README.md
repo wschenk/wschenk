@@ -50,7 +50,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-02-11: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2026-02-11: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
  - 2026-02-11: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
- - 2026-02-11: [The-Focus-AI/marina-skill](https://github.com/The-Focus-AI/marina-skill) - Claude Code plugin for managing Hetzner Cloud servers, Cloudflare DNS, and Docker-based app deployments
+ - 2026-02-13: [The-Focus-AI/marina-skill](https://github.com/The-Focus-AI/marina-skill) - Claude Code plugin for managing Hetzner Cloud servers, Cloudflare DNS, and Docker-based app deployments
  - 2026-02-10: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
  - 2026-02-08: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-02-06: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
