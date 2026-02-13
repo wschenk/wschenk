@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2026-02-13: [Lego-powered Submarine 4.0](https://willschenk.com/fragments/2026/lego_submarine/)
  - 2026-02-08: [Agents all the way down](https://willschenk.com/articles/2026/agents_all_the_way_down/)
  - 2026-02-07: [Into the Singularity](https://willschenk.com/fragments/2026/into_the_singularity/)
  - 2026-01-07: [Jack Clark on Tetragrammaton](https://willschenk.com/fragments/2026/jack_clark_tetragrammaton/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-11-17: [Notes on an 11 day water fast](https://willschenk.com/articles/2025/notes_on_a_11_day_water_fast/)
  - 2025-09-08: [Weekend Update](https://willschenk.com/fragments/2025/weekend_update/)
  - 2025-08-29: [psychasthenia](https://willschenk.com/fragments/2025/psychasthenia/)
- - 2025-08-26: [go wormhole](https://willschenk.com/labnotes/2025/go_wormhole/)
 
 ## Recent thefocus.ai posts
 
@@ -44,6 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-02-13: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2026-02-13: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-02-13: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-13: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-02-13: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
@@ -53,13 +55,11 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-02-13: [The-Focus-AI/marina-skill](https://github.com/The-Focus-AI/marina-skill) - Claude Code plugin for managing Hetzner Cloud servers, Cloudflare DNS, and Docker-based app deployments
  - 2026-02-10: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
  - 2026-02-08: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2026-02-06: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2026-02-08: [The-Focus-AI/quickbooks-skill](https://github.com/The-Focus-AI/quickbooks-skill) - Read-only access to QuickBooks Online data from Claude Code
 
 
 ## Recent Repo activity
 
- - 2026-02-09: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2026-02-13: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
