@@ -30,9 +30,9 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
  - 2025-12-10: [AI tools fail loudly where humans failed quietly](https://thefocus.ai/posts/good-for-human-good-for-ai/)
  - 2025-12-05: [[Recipe] The Smallest Coding Agent](https://thefocus.ai/recipes/smallest-coding-agent/)
- - 2025-11-29: [Weekend Coding Agent: Build Your Own AI Assistant](https://thefocus.ai/reports/coding-agent/)
+ - 2025-11-29: [Weekend Coding Agent: Build Your Own AI Assistant](https://thefocus.ai/posts/weekend-coding-agent/)
  - 2025-11-22: [AI Engineering Summit 2025: Bash-Pilled and Building for Everyone](https://thefocus.ai/posts/2025-11-22-ai-engineering-summit-takeaways/)
- - 2025-11-20: [AI Engineering Code Summit 2025: Deep Dive Report](https://thefocus.ai/reports/aiecode-2025-11/)
+ - 2025-11-20: [AI Engineering Code Summit 2025: Deep Dive Report](https://thefocus.ai/posts/ai-engineering-code-summit-2025/)
 
 ## Past
 
@@ -44,9 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-02-19: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-02-19: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-19: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
- - 2026-02-19: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-02-19: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-02-17: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-02-16: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
