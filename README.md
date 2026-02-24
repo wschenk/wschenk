@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2026-02-24: [Yelling at the Models](https://willschenk.com/fragments/2026/yelling_at_models/)
  - 2026-02-13: [Lego-powered Submarine 4.0](https://willschenk.com/fragments/2026/lego_submarine/)
  - 2026-02-08: [Agents all the way down](https://willschenk.com/articles/2026/agents_all_the_way_down/)
  - 2026-02-07: [Into the Singularity](https://willschenk.com/fragments/2026/into_the_singularity/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-11-18: [Interesting ATProto Projects in the Wild](https://willschenk.com/articles/2025/interesting_atproto_projects/)
  - 2025-11-17: [Notes on an 11 day water fast](https://willschenk.com/articles/2025/notes_on_a_11_day_water_fast/)
  - 2025-09-08: [Weekend Update](https://willschenk.com/fragments/2025/weekend_update/)
- - 2025-08-29: [psychasthenia](https://willschenk.com/fragments/2025/psychasthenia/)
 
 ## Recent thefocus.ai posts
 
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2026-02-13: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2026-02-24: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
