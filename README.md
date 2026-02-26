@@ -45,6 +45,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Focus Repo activity
 
  - 2026-02-26: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-02-26: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-26: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
  - 2026-02-26: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-02-25: [The-Focus-AI/habitat-site](https://github.com/The-Focus-AI/habitat-site) - Black background, full-screen images with gentle zoom and short stories. Static site.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-02-19: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-02-19: [The-Focus-AI/microsoft-skill](https://github.com/The-Focus-AI/microsoft-skill) - Microsoft Graph API skill for Claude Code and AI agents
  - 2026-02-19: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
- - 2026-02-19: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
 
 
 ## Recent Repo activity
