@@ -59,6 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2026-03-04: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
  - 2026-02-24: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
@@ -67,7 +68,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-02-08: [wschenk/send-email](https://github.com/wschenk/send-email) - supabase function for auth hook email replacement
  - 2025-01-17: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - Plan an ev road trip and look for chargers and food along the way
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
- - 2024-09-12: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
  - 2024-09-12: [wschenk/chargerfrontend](https://github.com/wschenk/chargerfrontend) - A map of EV chargers in north america
  - 2024-09-10: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
 
