@@ -59,6 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2026-03-18: [wschenk/nvidia-tutorial](https://github.com/wschenk/nvidia-tutorial) - 
  - 2026-03-07: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2026-03-04: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
@@ -69,7 +70,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2025-01-17: [wschenk/roadtrip](https://github.com/wschenk/roadtrip) - Plan an ev road trip and look for chargers and food along the way
  - 2024-09-12: [wschenk/quick_slides](https://github.com/wschenk/quick_slides) - Throw together some quick slides
  - 2024-09-12: [wschenk/chargerfrontend](https://github.com/wschenk/chargerfrontend) - A map of EV chargers in north america
- - 2024-09-10: [wschenk/supabase-auth-test](https://github.com/wschenk/supabase-auth-test) - Testing a no build static site with supabase
 
 
 ![example workflow](https://github.com/wschenk/wschenk/actions/workflows/build.yml/badge.svg)
