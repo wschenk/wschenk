@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2026-03-28: [The Will to Power Intelligence](https://willschenk.com/fragments/2026/raw_power_in_intelligence/)
  - 2026-03-06: [Lazzzored Dodecahedron](https://willschenk.com/fragments/2026/lazzzored_dodecahedron/)
  - 2026-03-05: [Shadows of God](https://willschenk.com/fragments/2026/shadows_of_god/)
  - 2026-02-24: [Yelling at the Models](https://willschenk.com/fragments/2026/yelling_at_models/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2025-12-30: [Unreasonable Effectiveness of Compute](https://willschenk.com/fragments/2025/unreasonable_effectiveness_of_compute/)
  - 2025-12-17: [Computer Held Accountable](https://willschenk.com/fragments/2025/computer_held_accountable/)
  - 2025-11-22: [Agent Kickoff](https://willschenk.com/fragments/2025/agent_kickoff/)
- - 2025-11-18: [Interesting ATProto Projects in the Wild](https://willschenk.com/articles/2025/interesting_atproto_projects/)
 
 ## Recent thefocus.ai posts
 
@@ -59,8 +59,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2026-03-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2026-03-18: [wschenk/nvidia-tutorial](https://github.com/wschenk/nvidia-tutorial) - 
- - 2026-03-07: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2026-03-04: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
