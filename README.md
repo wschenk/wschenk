@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-04-09: [The-Focus-AI/mastering-claude](https://github.com/The-Focus-AI/mastering-claude) - 
  - 2026-04-08: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-04-08: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-08: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-03-30: [The-Focus-AI/pocketcast-skill](https://github.com/The-Focus-AI/pocketcast-skill) - Claude Code plugin for Pocket Casts — search episodes, starred content, show notes, and podcast metadata
  - 2026-03-24: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-03-18: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
- - 2026-04-04: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
 
 
 ## Recent Repo activity
