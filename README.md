@@ -23,6 +23,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 ## Recent thefocus.ai posts
 
  - 2026-04-14: [Laddering up from chatboxes to autonomy](https://thefocus.ai/posts/laddering-up-from-chatboxes-to-autonomy/)
+ - 2026-04-11: [Building an Intelligent Organization](https://thefocus.ai/posts/building-an-intelligent-organization/)
  - 2026-04-04: [Gemma 4 on Your Machine: How Google’s New Open Weights Stack Up (Model Showdown)](https://thefocus.ai/posts/gemma-4-umwelten-showdown/)
  - 2026-03-24: [Same Weights, Different Results](https://thefocus.ai/posts/same-weights-different-results/)
  - 2026-03-15: [Can LLMs Use Real-World Tools? Mercury-2, ELO, and the Umwelten Setup](https://thefocus.ai/posts/mcp-tool-eval-mercury-umwelten/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
  - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
  - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
- - 2025-12-17: [[Recipe] Build Your Own Coding Agent](https://thefocus.ai/reports/coding-agent/)
 
 ## Past
 
@@ -44,17 +44,17 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-04-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
- - 2026-04-15: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2026-04-15: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-04-15: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-04-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2026-04-15: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
+ - 2026-04-15: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
+ - 2026-04-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-04-15: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-04-15: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-04-14: [The-Focus-AI/mastering-claude](https://github.com/The-Focus-AI/mastering-claude) - 
- - 2026-04-13: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-04-03: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-03-30: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-03-30: [The-Focus-AI/pocketcast-skill](https://github.com/The-Focus-AI/pocketcast-skill) - Claude Code plugin for Pocket Casts — search episodes, starred content, show notes, and podcast metadata
- - 2026-03-24: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
- - 2026-03-18: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
 
 
 ## Recent Repo activity
