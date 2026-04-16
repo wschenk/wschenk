@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2026-04-16: [Migrating to llama.cpp](https://willschenk.com/howto/2026/migrating_to_llama_cpp/)
  - 2026-03-28: [The Will to Power Intelligence](https://willschenk.com/fragments/2026/raw_power_in_intelligence/)
  - 2026-03-06: [Lazzzored Dodecahedron](https://willschenk.com/fragments/2026/lazzzored_dodecahedron/)
  - 2026-03-05: [Shadows of God](https://willschenk.com/fragments/2026/shadows_of_god/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2026-01-07: [Jack Clark on Tetragrammaton](https://willschenk.com/fragments/2026/jack_clark_tetragrammaton/)
  - 2025-12-30: [Unreasonable Effectiveness of Compute](https://willschenk.com/fragments/2025/unreasonable_effectiveness_of_compute/)
  - 2025-12-17: [Computer Held Accountable](https://willschenk.com/fragments/2025/computer_held_accountable/)
- - 2025-11-22: [Agent Kickoff](https://willschenk.com/fragments/2025/agent_kickoff/)
 
 ## Recent thefocus.ai posts
 
@@ -44,9 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-04-16: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-04-16: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-16: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
- - 2026-04-15: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-04-15: [The-Focus-AI/mdcopy](https://github.com/The-Focus-AI/mdcopy) - macOS: GitHub-Flavored Markdown to rich HTML on the clipboard for Mail, Docs, Slack, and Word. Uses Pandoc; includes a Claude Code plugin (mdcopy@focus-marketplace).
  - 2026-04-15: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-04-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2026-03-28: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2026-04-16: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2026-03-18: [wschenk/nvidia-tutorial](https://github.com/wschenk/nvidia-tutorial) - 
  - 2026-03-04: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
  - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
