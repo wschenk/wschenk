@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-04-27: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-04-27: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-27: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-04-27: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-04-15: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-04-15: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-04-15: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
- - 2026-04-14: [The-Focus-AI/mastering-claude](https://github.com/The-Focus-AI/mastering-claude) - 
 
 
 ## Recent Repo activity
