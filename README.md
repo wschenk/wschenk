@@ -44,9 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-04-30: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
  - 2026-04-30: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-30: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
- - 2026-04-29: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
  - 2026-04-29: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
  - 2026-04-29: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-04-20: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
@@ -59,10 +59,10 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
+ - 2026-04-30: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2026-04-16: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2026-03-18: [wschenk/nvidia-tutorial](https://github.com/wschenk/nvidia-tutorial) - 
  - 2026-03-04: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
- - 2025-12-15: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2025-03-04: [wschenk/typescript-template](https://github.com/wschenk/typescript-template) - Basic typescript with jest project template
  - 2025-02-16: [wschenk/issue-blog](https://github.com/wschenk/issue-blog) - Playground to make posts and comments from github issues
  - 2025-02-10: [wschenk/components](https://github.com/wschenk/components) - Manage your shadcn components
