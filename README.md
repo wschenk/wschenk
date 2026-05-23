@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2026-05-22: [How I Code in May 2026](https://thefocus.ai/posts/how-i-code-may-2026/)
  - 2026-05-12: [Which Open Model Should You Actually Run Locally?](https://thefocus.ai/posts/local-providers-which-open-model/)
  - 2026-05-01: [Neural harness](https://thefocus.ai/posts/neural-harness/)
  - 2026-04-14: [Laddering up from chatboxes to autonomy](https://thefocus.ai/posts/laddering-up-from-chatboxes-to-autonomy/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2026-03-12: [Sraffa's Gesture, the Crack in the Crystal, and Why the Stochastic Parrot Still Bites](https://thefocus.ai/posts/sraffas-gesture/)
  - 2026-03-01: [The Car Wash Test: Learning from Model Evals](https://thefocus.ai/posts/the-car-wash-test/)
  - 2026-02-05: [The Agent Habitat](https://thefocus.ai/posts/agent-habitat/)
- - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
 
 ## Past
 
@@ -44,11 +44,11 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-05-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-05-23: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-05-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2026-05-23: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-23: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-05-22: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
- - 2026-05-20: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-20: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-05-16: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
  - 2026-05-14: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
