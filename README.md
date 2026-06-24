@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-06-24: [The-Focus-AI/twitter-agent](https://github.com/The-Focus-AI/twitter-agent) - Standalone umwelten agent — Twitter/X bookmarks, mentions & feed over a habitat A2A/MCP surface (cloned into a stock habitat)
  - 2026-06-24: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-06-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-06-23: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-05-20: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-05-16: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
  - 2026-03-12: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
- - 2026-05-30: [The-Focus-AI/hermes-body](https://github.com/The-Focus-AI/hermes-body) - Reachy Mini front end for Nous Research's hermes-agent — OpenAI Realtime voice loop + robot motion tools, with hermes-agent as the knowledge backend
 
 
 ## Recent Repo activity
