@@ -8,6 +8,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent willschenk.com Blog Posts
 
+ - 2026-07-09: [Do You Even Lift Bro](https://willschenk.com/fragments/2026/do_you_even_lift_bro/)
  - 2026-07-08: [A format for sharing transcripts](https://willschenk.com/fragments/2026/transcript_format/)
  - 2026-04-16: [Migrating to llama.cpp](https://willschenk.com/howto/2026/migrating_to_llama_cpp/)
  - 2026-03-28: [The Will to Power Intelligence](https://willschenk.com/fragments/2026/raw_power_in_intelligence/)
@@ -18,7 +19,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2026-02-08: [Agents all the way down](https://willschenk.com/articles/2026/agents_all_the_way_down/)
  - 2026-02-07: [Into the Singularity](https://willschenk.com/fragments/2026/into_the_singularity/)
  - 2026-01-07: [Jack Clark on Tetragrammaton](https://willschenk.com/fragments/2026/jack_clark_tetragrammaton/)
- - 2025-12-30: [Unreasonable Effectiveness of Compute](https://willschenk.com/fragments/2025/unreasonable_effectiveness_of_compute/)
 
 ## Recent thefocus.ai posts
 
@@ -44,9 +44,9 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-07-09: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-09: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-07-09: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2026-07-09: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-08: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-07-07: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
  - 2026-07-07: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
@@ -59,7 +59,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Repo activity
 
- - 2026-07-08: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
+ - 2026-07-09: [wschenk/willschenk.com](https://github.com/wschenk/willschenk.com) - My website, which is mainly labnotes of me playing around with things.
  - 2026-04-30: [wschenk/dotfiles](https://github.com/wschenk/dotfiles) - 
  - 2026-03-18: [wschenk/nvidia-tutorial](https://github.com/wschenk/nvidia-tutorial) - 
  - 2026-03-04: [wschenk/chargermap](https://github.com/wschenk/chargermap) - Pull down public data about chargers and provide a json api to query it
