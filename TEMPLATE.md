@@ -12,7 +12,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
-<!-- feed: https://thefocus.ai/rss.xml -->
+<!-- feed: https://labs.thefocus.ai/rss.xml -->
 
 ## Past
 
