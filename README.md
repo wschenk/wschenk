@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
  - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
  - 2026-07-24: [mattpocock/skills v1.1: coding with alignment surfaces](https://labs.thefocus.ai/dispatch/mattpocock-skills-v1-1/)
  - 2026-07-19: [Introducing Labs](https://labs.thefocus.ai/dispatch/relaunching-labs/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2026-04-25: [The Miami Report — two days at AI Engineer Miami](https://labs.thefocus.ai/dispatch/miami-report/)
  - 2026-04-14: [Laddering up from chatboxes to autonomy](https://labs.thefocus.ai/dispatch/laddering-up-from-chatboxes-to-autonomy/)
  - 2026-04-11: [Building an Intelligent Organization](https://labs.thefocus.ai/dispatch/building-an-intelligent-organization/)
- - 2026-04-04: [Gemma 4 on Your Machine: How Google’s New Open Weights Stack Up (Model Showdown)](https://labs.thefocus.ai/dispatch/gemma-4-umwelten-showdown/)
 
 ## Past
 
@@ -44,12 +44,12 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-08-04: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-08-03: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-08-03: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-08-01: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-08-01: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-08-02: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
- - 2026-08-01: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-07-31: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
  - 2026-07-30: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-07-28: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
