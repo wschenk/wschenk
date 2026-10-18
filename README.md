@@ -45,7 +45,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Focus Repo activity
 
  - 2026-10-18: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
- - 2026-10-17: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-10-18: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-10-17: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-10-14: [The-Focus-AI/data-center-guesser](https://github.com/The-Focus-AI/data-center-guesser) - Satellite guessing game from TheFocus.AI: which building is the data center? Learn the cooling, power, and site tells that separate server halls from warehouses, offices, and fabs. Play at https://artifacts.thefocus.ai/a/hVefaAKoB0E/
  - 2026-10-14: [The-Focus-AI/brutism-gemini-4-test](https://github.com/The-Focus-AI/brutism-gemini-4-test) - Parametric brutalist city builder from TheFocus.AI: sculpt iconic béton brut buildings and run solar, circulation, wind, and structural simulations. https://artifacts.thefocus.ai/a/d8CcEPLzwbY/
