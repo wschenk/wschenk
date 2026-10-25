@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-10-24: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
- - 2026-10-24: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-10-25: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-10-25: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-10-23: [The-Focus-AI/aranet4-bluetooth](https://github.com/The-Focus-AI/aranet4-bluetooth) - Aranet4 CO₂ monitor over Bluetooth LE — a Swift menu bar app and a Python CLI, plus the reverse-engineered BLE protocol
  - 2026-10-23: [The-Focus-AI/dsh-plugin-sidebar-workspace-names](https://github.com/The-Focus-AI/dsh-plugin-sidebar-workspace-names) - DeepSeek Harness sidebar plugin: shows the owning workspace name on a second line under each session title in the In one list view.
  - 2026-10-12: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
