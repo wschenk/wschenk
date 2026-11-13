@@ -46,6 +46,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
  - 2026-11-12: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-11-13: [The-Focus-AI/conference-reporter](https://github.com/The-Focus-AI/conference-reporter) - Template for an agent-run conference notebook: notes, Voice Memos recordings (local Qwen3-ASR), photos and the schedule become evidence-backed talk stories, theme syntheses and a static site, driven by OpenProse contracts with signed receipts.
  - 2026-11-11: [The-Focus-AI/ai-engineer-code-2026-nov](https://github.com/The-Focus-AI/ai-engineer-code-2026-nov) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-12: [The-Focus-AI/gemmaembeddings](https://github.com/The-Focus-AI/gemmaembeddings) - Local EmbeddingGemma 2 multimodal benchmark lab & interactive SQLite (libSQL DiskANN + FTS5) playground
  - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-10-23: [The-Focus-AI/aranet4-bluetooth](https://github.com/The-Focus-AI/aranet4-bluetooth) - Aranet4 CO₂ monitor over Bluetooth LE — a Swift menu bar app and a Python CLI, plus the reverse-engineered BLE protocol
  - 2026-11-04: [The-Focus-AI/dsh-plugin-sidebar-workspace-names](https://github.com/The-Focus-AI/dsh-plugin-sidebar-workspace-names) - DeepSeek Harness sidebar plugin: shows the owning workspace name on a second line under each session title in the In one list view.
  - 2026-10-20: [The-Focus-AI/data-center-guesser](https://github.com/The-Focus-AI/data-center-guesser) - Satellite guessing game from TheFocus.AI: which building is the data center? Learn the cooling, power, and site tells that separate server halls from warehouses, offices, and fabs. Play at https://artifacts.thefocus.ai/a/hVefaAKoB0E/
- - 2026-10-14: [The-Focus-AI/brutism-gemini-4-test](https://github.com/The-Focus-AI/brutism-gemini-4-test) - Parametric brutalist city builder from TheFocus.AI: sculpt iconic béton brut buildings and run solar, circulation, wind, and structural simulations. https://artifacts.thefocus.ai/a/d8CcEPLzwbY/
 
 
 ## Recent Repo activity
