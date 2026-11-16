@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-11-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-11-09: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
  - 2026-11-14: [The-Focus-AI/ai-engineer-nyc-2026-oct](https://github.com/The-Focus-AI/ai-engineer-nyc-2026-oct) - Public archive of AI Engineer New York 2026 (Oct 12–14) by TheFocus.AI: 8 themes, 31 talk stories, stage slides & 176 verbatim claims — https://the-focus-ai.github.io/ai-engineer-nyc-2026-oct/
  - 2026-09-12: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
