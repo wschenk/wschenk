@@ -44,9 +44,10 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-11-18: [The-Focus-AI/qwen-3.8-pi-adapted](https://github.com/The-Focus-AI/qwen-3.8-pi-adapted) - Serve Qwen3.8-27B with the Pi-adapted LoRA via llama.cpp, talk to it with project-local π, and bench with the inference-optimisation skill.
+ - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-11-17: [The-Focus-AI/session-spec-verify](https://github.com/The-Focus-AI/session-spec-verify) - Modular conceptual spec extraction, evidence-backed deployment verification, and protected external-standard refactoring skills for cold-rebuildable software.
  - 2026-11-09: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
- - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-11-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-11-14: [The-Focus-AI/ai-engineer-nyc-2026-oct](https://github.com/The-Focus-AI/ai-engineer-nyc-2026-oct) - Public archive of AI Engineer New York 2026 (Oct 12–14) by TheFocus.AI: 8 themes, 31 talk stories, stage slides & 176 verbatim claims — https://the-focus-ai.github.io/ai-engineer-nyc-2026-oct/
  - 2026-09-12: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-11-13: [The-Focus-AI/conference-reporter](https://github.com/The-Focus-AI/conference-reporter) - Template for an agent-run conference notebook: notes, Voice Memos recordings (local Qwen3-ASR), photos and the schedule become evidence-backed talk stories, theme syntheses and a static site, driven by OpenProse contracts with signed receipts.
  - 2026-11-15: [The-Focus-AI/ai-engineer-code-2026-nov](https://github.com/The-Focus-AI/ai-engineer-code-2026-nov) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-12: [The-Focus-AI/gemmaembeddings](https://github.com/The-Focus-AI/gemmaembeddings) - Local EmbeddingGemma 2 multimodal benchmark lab & interactive SQLite (libSQL DiskANN + FTS5) playground
- - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
 
 
 ## Recent Repo activity
