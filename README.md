@@ -44,6 +44,7 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
+ - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
  - 2026-11-18: [The-Focus-AI/2025-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2025-11-ai-engineer-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-11-13: [The-Focus-AI/conference-reporter](https://github.com/The-Focus-AI/conference-reporter) - Template for an agent-run conference notebook: notes, Voice Memos recordings (local Qwen3-ASR), photos and the schedule become evidence-backed talk stories, theme syntheses and a static site, driven by OpenProse contracts with signed receipts.
@@ -54,7 +55,6 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
  - 2026-11-09: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
  - 2026-11-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-09-12: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
- - 2026-10-28: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
 
 
 ## Recent Repo activity
