@@ -22,6 +22,7 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
 
 ## Recent thefocus.ai posts
 
+ - 2026-11-22: [Gemini feels different](https://labs.thefocus.ai/newsletter/gemini-feels-different/)
  - 2026-11-21: [Why Gemini 4 Feels Different From Claude and GPT](https://labs.thefocus.ai/reports/why-gemini-feels-different/)
  - 2026-11-18: [Adapting Qwen 3.8 27B to the π Coding Harness on Apple Silicon](https://labs.thefocus.ai/lab/qwen-3-8-pi-harness/)
  - 2026-11-17: [Repeatable Site Demo Reels with Claude Code, webreel, and Remotion](https://labs.thefocus.ai/recipes/site-trailers-with-webreel/)
@@ -32,7 +33,6 @@ I'm also the cofounder of [Tezlab](https://tezlabapp.com) which is a mobile app 
  - 2026-09-20: [Jev: Judging, Not Calling Tools](https://labs.thefocus.ai/reports/jev-typed-judgments/)
  - 2026-09-03: [Never Touch the Laptop: Running a Whole Project from Your Phone](https://labs.thefocus.ai/reports/phone-first-cloud-agents/)
  - 2026-08-17: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
- - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
 
 ## Past
 
@@ -45,10 +45,10 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 ## Recent Focus Repo activity
 
  - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-11-18: [The-Focus-AI/2026-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2026-11-ai-engineer-code-summit) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-18: [The-Focus-AI/2025-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2025-11-ai-engineer-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-11-13: [The-Focus-AI/conference-reporter](https://github.com/The-Focus-AI/conference-reporter) - Template for an agent-run conference notebook: notes, Voice Memos recordings (local Qwen3-ASR), photos and the schedule become evidence-backed talk stories, theme syntheses and a static site, driven by OpenProse contracts with signed receipts.
- - 2026-11-18: [The-Focus-AI/2026-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2026-11-ai-engineer-code-summit) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-18: [The-Focus-AI/2026-10-ai-engineer-nyc](https://github.com/The-Focus-AI/2026-10-ai-engineer-nyc) - Public archive of AI Engineer New York 2026 (Oct 12–14) by TheFocus.AI: 8 themes, 31 talk stories, stage slides & 176 verbatim claims — https://the-focus-ai.github.io/2026-10-ai-engineer-nyc/
  - 2026-11-18: [The-Focus-AI/qwen-3.8-pi-adapted](https://github.com/The-Focus-AI/qwen-3.8-pi-adapted) - Serve Qwen3.8-27B with the Pi-adapted LoRA via llama.cpp, talk to it with project-local π, and bench with the inference-optimisation skill.
  - 2026-11-17: [The-Focus-AI/session-spec-verify](https://github.com/The-Focus-AI/session-spec-verify) - Modular conceptual spec extraction, evidence-backed deployment verification, and protected external-standard refactoring skills for cold-rebuildable software.
