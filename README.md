@@ -44,8 +44,8 @@ I'm starting a new project in the fall around effectively leveraging AI and AI-e
 
 ## Recent Focus Repo activity
 
- - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-12: [The-Focus-AI/.github](https://github.com/The-Focus-AI/.github) - 
+ - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-18: [The-Focus-AI/2025-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2025-11-ai-engineer-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-11-13: [The-Focus-AI/conference-reporter](https://github.com/The-Focus-AI/conference-reporter) - Template for an agent-run conference notebook: notes, Voice Memos recordings (local Qwen3-ASR), photos and the schedule become evidence-backed talk stories, theme syntheses and a static site, driven by OpenProse contracts with signed receipts.
  - 2026-11-18: [The-Focus-AI/2026-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2026-11-ai-engineer-code-summit) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
